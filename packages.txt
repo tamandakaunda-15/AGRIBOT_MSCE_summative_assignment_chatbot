@@ -1,0 +1,2 @@
+# This runs a shell command to install the Keras 2 compatibility layer
+python3 -m pip install tf-keras
