@@ -1,0 +1,10 @@
+streamlit
+<<<<<<< HEAD
+tensorflow==2.16.1
+=======
+tensorflow
+>>>>>>> ac27f2b733708bbb3c8b4532a862afab34f5c3af
+transformers
+datasets
+pandas
+sentencepiece

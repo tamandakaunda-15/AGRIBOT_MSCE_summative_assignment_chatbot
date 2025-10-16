@@ -1,0 +1,807 @@
+[
+    {
+        "question":"Agricultural and the environment",
+        "context":"Agricultural and the environment\n\uf0b7 Soil degradation \n\uf0b7 Agricultural and climate change \n\uf0b7 Land drainage",
+        "answer":"\uf0b7 Soil degradation \n\uf0b7 Agricultural and climate change \n\uf0b7 Land drainage"
+    },
+    {
+        "question":"Agricultural research and technology",
+        "context":"Agricultural research and technology\n\uf0b7 Farm mechanization  \n\uf0b7 Farm power  \n\uf0b7 Gender and agricultural technology  \n\uf0b7 Improved farming technology",
+        "answer":"\uf0b7 Farm mechanization  \n\uf0b7 Farm power  \n\uf0b7 Gender and agricultural technology  \n\uf0b7 Improved farming technology"
+    },
+    {
+        "question":"Agricultural economics and farm business management",
+        "context":"Agricultural economics and farm business management\n\uf0b7 Agricultural marketing and trading  \n\uf0b7 Price elasticity of demand and supply",
+        "answer":"\uf0b7 Agricultural marketing and trading  \n\uf0b7 Price elasticity of demand and supply"
+    },
+    {
+        "question":"Crop production",
+        "context":"Crop production\n\uf0b7 Crop improvement  \n\uf0b7 Crop processing  \n\uf0b7 Pasture  \n\uf0b7 Mango production",
+        "answer":"\uf0b7 Crop improvement  \n\uf0b7 Crop processing  \n\uf0b7 Pasture  \n\uf0b7 Mango production"
+    },
+    {
+        "question":"Livestock production",
+        "context":"Livestock production\n\uf0b7 Cattle production  \n\uf0b7 Reproductive system of poultry and cattle  \n\uf0b7 Livestock improvement  \n \n \n \n \n \n \n \n \n \n \n \nCompiled by L.L Mpandason  \n4",
+        "answer":"\uf0b7 Cattle production  \n\uf0b7 Reproductive system of poultry and cattle  \n\uf0b7 Livestock improvement  \n \n \n \n \n \n \n \n \n \n \n \nCompiled by L.L Mpandason  \n4"
+    },
+    {
+        "question":"State two forms of soil degradation",
+        "context":"State two forms of soil degradation\n\uf0b7 Physical degradation  \n\uf0b7 Chemical degradation",
+        "answer":"\uf0b7 Physical degradation  \n\uf0b7 Chemical degradation"
+    },
+    {
+        "question":"Differentiate between physical and chemical degradation",
+        "context":"Differentiate between physical and chemical degradation\n\uf0b7 In physical degradation, the physical characteristics of soil are interfered with while in \nchemical degradation, the chemical composition of soil is altered",
+        "answer":"\uf0b7 In physical degradation, the physical characteristics of soil are interfered with while in \nchemical degradation, the chemical composition of soil is altered"
+    },
+    {
+        "question":"Outline the major causes of soil degradation",
+        "context":"Outline the major causes of soil degradation\n\uf0b7 Soil erosion   \n\uf0b7 Salinization  \n\uf0b7 Soil acidification  \n\uf0b7 Leaching  \n\uf0b7 Compaction of soil",
+        "answer":"\uf0b7 Soil erosion   \n\uf0b7 Salinization  \n\uf0b7 Soil acidification  \n\uf0b7 Leaching  \n\uf0b7 Compaction of soil"
+    },
+    {
+        "question":"a. What is salinization of soil",
+        "context":"a. What is salinization of soil\n\uf0b7 Salinization is the accumulation of water soluble minerals in the soil \nb. In which way does salinization cause soil degradation  \n\uf0b7 Makes it difficult for crops to absorb soil moisture \n\uf0b7 Impairs availability of some minerals for crop use  \n\uf0b7 May cause the soil pH to be less than plant can withstand",
+        "answer":"\uf0b7 Salinization is the accumulation of water soluble minerals in the soil \nb. In which way does salinization cause soil degradation  \n\uf0b7 Makes it difficult for crops to absorb soil moisture \n\uf0b7 Impairs availability of some minerals for crop use  \n\uf0b7 May cause the soil pH to be less than plant can withstand"
+    },
+    {
+        "question":"State two causes of physical land degradation",
+        "context":"State two causes of physical land degradation\n\uf0b7 Soil erosion  \n\uf0b7 Soil compaction",
+        "answer":"\uf0b7 Soil erosion  \n\uf0b7 Soil compaction"
+    },
+    {
+        "question":"Suggest two causes of soil acidification",
+        "context":"Suggest two causes of soil acidification\n\uf0b7 Continuous use of acidifying fertilizers  \n\uf0b7 Accumulation of acidic slats in the soil",
+        "answer":"\uf0b7 Continuous use of acidifying fertilizers  \n\uf0b7 Accumulation of acidic slats in the soil"
+    },
+    {
+        "question":"a. Outline four effects of flooding on agriculture",
+        "context":"a. Outline four effects of flooding on agriculture\n\uf0b7 Damage of crops in the field \n\uf0b7 Death of livestock  \n\uf0b7 Destruction of farm structures  \n\uf0b7 Outbreak of water-borne diseases and parasites  \n\uf0b7 Reducing the arable lands  \n\uf0b7 Loss of top fertile soil  \nb. List four other effects of high population on land  \n\uf0b7 Clearing of more natural vegetation and planting annual crops that may not be very \ngood in combating land degradation  \n \n \nCompiled by L.L Mpandason  \n5 \n\uf0b7 Overstocking leading to overgrazing and hence soil erosion  \n\uf0b7 Encroachment of arid and semi-arid areas that are more prone to land degradation",
+        "answer":"\uf0b7 Damage of crops in the field \n\uf0b7 Death of livestock  \n\uf0b7 Destruction of farm structures  \n\uf0b7 Outbreak of water-borne diseases and parasites  \n\uf0b7 Reducing the arable lands  \n\uf0b7 Loss of top fertile soil  \nb. List four other effects of high population on land  \n\uf0b7 Clearing of more natural vegetation and planting annual crops that may not be very \ngood in combating land degradation  \n \n \nCompiled by L.L Mpandason  \n5 \n\uf0b7 Overstocking leading to overgrazing and hence soil erosion  \n\uf0b7 Encroachment of arid and semi-arid areas that are more prone to land degradation"
+    },
+    {
+        "question":"Name three  types of terraces",
+        "context":"Name three  types of terraces\n\uf0b7 Bench terraces  \n\uf0b7 Broad based terraces \n\uf0b7 Narrow based terraces  \n\uf0b7 Graded terraces  \n\uf0b7 Level terraces",
+        "answer":"\uf0b7 Bench terraces  \n\uf0b7 Broad based terraces \n\uf0b7 Narrow based terraces  \n\uf0b7 Graded terraces  \n\uf0b7 Level terraces"
+    },
+    {
+        "question":"What are the control measures of soil degradation",
+        "context":"What are the control measures of soil degradation\n\uf0b7 Mulching  \n\uf0b7 Afforestation and reafforestation  \n\uf0b7 Construction of gabions  \n\uf0b7 Construction of terraces",
+        "answer":"\uf0b7 Mulching  \n\uf0b7 Afforestation and reafforestation  \n\uf0b7 Construction of gabions  \n\uf0b7 Construction of terraces"
+    },
+    {
+        "question":"What is soil degradation",
+        "context":"What is soil degradation\n\uf0b7 Soil degradation is the process by which soil loses its quality and productivity as a \nresult of human activity",
+        "answer":"\uf0b7 Soil degradation is the process by which soil loses its quality and productivity as a \nresult of human activity"
+    },
+    {
+        "question":"List four ways of dealing with climate change in agriculture",
+        "context":"List four ways of dealing with climate change in agriculture\nBy practicing  \n\uf0b7 Conserving agriculture  \n\uf0b7 Water harvesting  \n\uf0b7 Agroforestry  \n\uf0b7 Reafforestation \n\uf0b7 Integrated forest, crops, livestock and fish system",
+        "answer":"By practicing  \n\uf0b7 Conserving agriculture  \n\uf0b7 Water harvesting  \n\uf0b7 Agroforestry  \n\uf0b7 Reafforestation \n\uf0b7 Integrated forest, crops, livestock and fish system"
+    },
+    {
+        "question":"Describe how each of the following practices help prevent climate change",
+        "context":"Describe how each of the following practices help prevent climate change\nin agriculture  \na. Agroforestry  \n\uf0b7 Trees reduce GHG(greenhouse gases) by absorbing carbon dioxide in the \natmosphere \n\uf0b7 Trees protect the soil from erosion  \n\uf0b7 Trees improve water infiltration  \n\uf0b7 Trees conserve soil moisture by reducing evaporation  \nb. Conservation agriculture \n\uf0b7 Reduce soil erosion hence siltation of water bodies  \n\uf0b7 Reduce carbon dioxide emission into the atmosphere \n\uf0b7 Avails cleaner surface water for domestic and agricultural use",
+        "answer":"in agriculture  \na. Agroforestry  \n\uf0b7 Trees reduce GHG(greenhouse gases) by absorbing carbon dioxide in the \natmosphere \n\uf0b7 Trees protect the soil from erosion  \n\uf0b7 Trees improve water infiltration  \n\uf0b7 Trees conserve soil moisture by reducing evaporation  \nb. Conservation agriculture \n\uf0b7 Reduce soil erosion hence siltation of water bodies  \n\uf0b7 Reduce carbon dioxide emission into the atmosphere \n\uf0b7 Avails cleaner surface water for domestic and agricultural use"
+    },
+    {
+        "question":"a. What is conservation agriculture",
+        "context":"a. What is conservation agriculture\nCompiled by L.L Mpandason  \n6 \n\uf0b7 Conservation agriculture is an approach in farming that aims at attaining high crop \nyields at the same time conserving the environment \nb. Name the three principles of conservation agriculture  \n\uf0b7 Minimum soil disturbance  \n\uf0b7 Permanent soil cover  \n\uf0b7 Diversified crop rotation or plant associations",
+        "answer":"Compiled by L.L Mpandason  \n6 \n\uf0b7 Conservation agriculture is an approach in farming that aims at attaining high crop \nyields at the same time conserving the environment \nb. Name the three principles of conservation agriculture  \n\uf0b7 Minimum soil disturbance  \n\uf0b7 Permanent soil cover  \n\uf0b7 Diversified crop rotation or plant associations"
+    },
+    {
+        "question":"a. Outline the importance of water harvesting",
+        "context":"a. Outline the importance of water harvesting\n\uf0b7 Avails clean water for use  \n\uf0b7 Reduces volumes of surface run-off hence reduce soil erosion \n\uf0b7 Reduce flooding  \nb. State two ways of storing harvested rain water  \n\uf0b7 Use tanks  \n\uf0b7 Use dams  \n\uf0b7 Use of ponds",
+        "answer":"\uf0b7 Avails clean water for use  \n\uf0b7 Reduces volumes of surface run-off hence reduce soil erosion \n\uf0b7 Reduce flooding  \nb. State two ways of storing harvested rain water  \n\uf0b7 Use tanks  \n\uf0b7 Use dams  \n\uf0b7 Use of ponds"
+    },
+    {
+        "question":"Identify four areas in farm where agroforestry can be practiced",
+        "context":"Identify four areas in farm where agroforestry can be practiced\n\uf0b7 Along the farm boundary  \n\uf0b7 Within the homestead \n\uf0b7 Along the terrace  \n\uf0b7 In marshy areas \n\uf0b7 In very steep areas",
+        "answer":"\uf0b7 Along the farm boundary  \n\uf0b7 Within the homestead \n\uf0b7 Along the terrace  \n\uf0b7 In marshy areas \n\uf0b7 In very steep areas"
+    },
+    {
+        "question":"What is land drainage",
+        "context":"What is land drainage\n\uf0b7 Land drainage is the practice of removing excess moisture from the soil to make \nit suitable for growing crops",
+        "answer":"\uf0b7 Land drainage is the practice of removing excess moisture from the soil to make \nit suitable for growing crops"
+    },
+    {
+        "question":"Suggest five benefits of carrying out land drainage",
+        "context":"Suggest five benefits of carrying out land drainage\n\uf0b7 Improves soil aeration  \n\uf0b7 Increases microbial activities  \n\uf0b7 Reduces soil erosion  \n\uf0b7 A method of land reclamation  \n\uf0b7 Controls waterborne parasites and diseases",
+        "answer":"\uf0b7 Improves soil aeration  \n\uf0b7 Increases microbial activities  \n\uf0b7 Reduces soil erosion  \n\uf0b7 A method of land reclamation  \n\uf0b7 Controls waterborne parasites and diseases"
+    },
+    {
+        "question":"What is bio drainage",
+        "context":"What is bio drainage\n\uf0b7 Bio drainage is the use of growing plants to drain out water from the field",
+        "answer":"\uf0b7 Bio drainage is the use of growing plants to drain out water from the field"
+    },
+    {
+        "question":"Identify four benefits of bio drainage compared to conventional drainage",
+        "context":"Identify four benefits of bio drainage compared to conventional drainage\n\uf0b7 Trees act as wind break \n\uf0b7 Trees help moderate the temperature of the surrounding  \n\uf0b7 Trees increases the forest cover \n\uf0b7 Trees drain and discharges the excess water \n \n \nCompiled by L.L Mpandason  \n7 \n\uf0b7 Bio drains are cheap to maintain",
+        "answer":"\uf0b7 Trees act as wind break \n\uf0b7 Trees help moderate the temperature of the surrounding  \n\uf0b7 Trees increases the forest cover \n\uf0b7 Trees drain and discharges the excess water \n \n \nCompiled by L.L Mpandason  \n7 \n\uf0b7 Bio drains are cheap to maintain"
+    },
+    {
+        "question":"Outline four possible causes of waterlogging",
+        "context":"Outline four possible causes of waterlogging\n\uf0b7 Very high rainfall in low lying areas  \n\uf0b7 High amounts of clay particles in the soil  \n\uf0b7 Presence of an underlying impermeable rock \n\uf0b7 A high water table \n\uf0b7 Presence of hard pans in the field",
+        "answer":"\uf0b7 Very high rainfall in low lying areas  \n\uf0b7 High amounts of clay particles in the soil  \n\uf0b7 Presence of an underlying impermeable rock \n\uf0b7 A high water table \n\uf0b7 Presence of hard pans in the field"
+    },
+    {
+        "question":"Give three disadvantages of open ditches as a method of land drainage",
+        "context":"Give three disadvantages of open ditches as a method of land drainage\n\uf0b7 They are expensive to maintain  \n\uf0b7 They interfere with agricultural mechanization  \n\uf0b7 If the ditches are not well designed, they may lead to serious erosion \n\uf0b7 Use valuable land space that would otherwise be used for growing crops  \na. What are cambered beds  \n\uf0b7 Cambered beds are raised heaps of soil, water flows by gravity into the channels \nmaking the soil on the raised bed suitable for growing crops  \nb. Describe how cambered beds aid in land drainage  \n\uf0b7 Excess water from the raised heaps of soil flow by gravity into the channels \nmaking the soil on the raised bed suitable or growing crops",
+        "answer":"\uf0b7 They are expensive to maintain  \n\uf0b7 They interfere with agricultural mechanization  \n\uf0b7 If the ditches are not well designed, they may lead to serious erosion \n\uf0b7 Use valuable land space that would otherwise be used for growing crops  \na. What are cambered beds  \n\uf0b7 Cambered beds are raised heaps of soil, water flows by gravity into the channels \nmaking the soil on the raised bed suitable for growing crops  \nb. Describe how cambered beds aid in land drainage  \n\uf0b7 Excess water from the raised heaps of soil flow by gravity into the channels \nmaking the soil on the raised bed suitable or growing crops"
+    },
+    {
+        "question":"Describe the condition in which water pumping is recommended as method",
+        "context":"Describe the condition in which water pumping is recommended as method\nof drainage \n\uf0b7 in a situation whereby a large pool of water collects in a low lying area, where \nother methods of drainage are not applicable",
+        "answer":"of drainage \n\uf0b7 in a situation whereby a large pool of water collects in a low lying area, where \nother methods of drainage are not applicable"
+    },
+    {
+        "question":"What is farm mechanization",
+        "context":"What is farm mechanization\n\uf0b7 Farm mechanization is the used of power driven machinery to carry out certain \nfarming activities",
+        "answer":"\uf0b7 Farm mechanization is the used of power driven machinery to carry out certain \nfarming activities"
+    },
+    {
+        "question":"Name three animal drawn machineries",
+        "context":"Name three animal drawn machineries\n\uf0b7 Ox-plough \n\uf0b7 Ox \u2013cart \n\uf0b7 Ridger  \n\uf0b7 Seed drills",
+        "answer":"\uf0b7 Ox-plough \n\uf0b7 Ox \u2013cart \n\uf0b7 Ridger  \n\uf0b7 Seed drills"
+    },
+    {
+        "question":"Describe the advantages of farm mechanization",
+        "context":"Describe the advantages of farm mechanization\n\uf0b7 Increasing crop yields  \n\uf0b7 Farm operations can be done on time  \n\uf0b7 Improves production efficiency by reducing cost per unit of product \n\uf0b7 It  reduces drudgery making work easy and enjoyable  \n\uf0b7 Farmers benefit from economies of scale of large scale production  \n\uf0b7 Crop quality is increased especially during harvesting and processing  \n \n \nCompiled by L.L Mpandason  \n8 \n\uf0b7 Operation are done more efficiently  \n\uf0b7 Substitutes expensive farm labour  \n\uf0b7 Compensates for labour peak periods",
+        "answer":"\uf0b7 Increasing crop yields  \n\uf0b7 Farm operations can be done on time  \n\uf0b7 Improves production efficiency by reducing cost per unit of product \n\uf0b7 It  reduces drudgery making work easy and enjoyable  \n\uf0b7 Farmers benefit from economies of scale of large scale production  \n\uf0b7 Crop quality is increased especially during harvesting and processing  \n \n \nCompiled by L.L Mpandason  \n8 \n\uf0b7 Operation are done more efficiently  \n\uf0b7 Substitutes expensive farm labour  \n\uf0b7 Compensates for labour peak periods"
+    },
+    {
+        "question":"Outline the maintenance of a tractor drawn mouldboard plough",
+        "context":"Outline the maintenance of a tractor drawn mouldboard plough\n\uf0b7 Clean after use  \n\uf0b7 Tighten loose nuts and bolts  \n\uf0b7 Apply old engine oil on the plough for long storage  \n\uf0b7 Lubricate moving parts  \n\uf0b7 Repair damaged parts \n\uf0b7 Store in a dry place  \n\uf0b7 Replace lost or worn out parts such as nuts and scrappers  \n\uf0b7 Sharpen shares by  hammering the edges",
+        "answer":"\uf0b7 Clean after use  \n\uf0b7 Tighten loose nuts and bolts  \n\uf0b7 Apply old engine oil on the plough for long storage  \n\uf0b7 Lubricate moving parts  \n\uf0b7 Repair damaged parts \n\uf0b7 Store in a dry place  \n\uf0b7 Replace lost or worn out parts such as nuts and scrappers  \n\uf0b7 Sharpen shares by  hammering the edges"
+    },
+    {
+        "question":"Besides the disc plough, name three other tractor drawn machineries used in primary cultivation",
+        "context":"Besides the disc plough, name three other tractor drawn machineries used in primary cultivation\n\uf0b7 Mould board plough \n\uf0b7 Subsoiler  \n\uf0b7 Rotator",
+        "answer":"\uf0b7 Mould board plough \n\uf0b7 Subsoiler  \n\uf0b7 Rotator"
+    },
+    {
+        "question":"State five maintenance practices carried out on trailers",
+        "context":"State five maintenance practices carried out on trailers\n\uf0b7 Check tyre pressure and adjust accordingly before each day\u2019s work  \n\uf0b7 Avoid overloading the trailer  \n\uf0b7 Lubricate the wheel bearings regularly  \n\uf0b7 Clean the trailer regularly  \n\uf0b7 Keep under a shade for long storage  \n\uf0b7 Check bolts and nuts. Tighten loose nuts and bolts  \n\uf0b7 Repair damaged parts",
+        "answer":"\uf0b7 Check tyre pressure and adjust accordingly before each day\u2019s work  \n\uf0b7 Avoid overloading the trailer  \n\uf0b7 Lubricate the wheel bearings regularly  \n\uf0b7 Clean the trailer regularly  \n\uf0b7 Keep under a shade for long storage  \n\uf0b7 Check bolts and nuts. Tighten loose nuts and bolts  \n\uf0b7 Repair damaged parts"
+    },
+    {
+        "question":"Suggest the factors to consider when mechanizing a farm",
+        "context":"Suggest the factors to consider when mechanizing a farm\n\uf0b7 Availability of capital  \n\uf0b7 Size of land  \n\uf0b7 Availability of technical skills \n\uf0b7 Topography  \n\uf0b7 Accessibility  \n\uf0b7 Support services  \n\uf0b7 Employment opportunities",
+        "answer":"\uf0b7 Availability of capital  \n\uf0b7 Size of land  \n\uf0b7 Availability of technical skills \n\uf0b7 Topography  \n\uf0b7 Accessibility  \n\uf0b7 Support services  \n\uf0b7 Employment opportunities"
+    },
+    {
+        "question":"State three machineries which are used in harvesting crops",
+        "context":"State three machineries which are used in harvesting crops\n\uf0b7 Combine harvester \n\uf0b7 Maize shelters  \n\uf0b7 Potato lifters  \n\uf0b7 Forage harvesters  \n \n \nCompiled by L.L Mpandason  \n9",
+        "answer":"\uf0b7 Combine harvester \n\uf0b7 Maize shelters  \n\uf0b7 Potato lifters  \n\uf0b7 Forage harvesters  \n \n \nCompiled by L.L Mpandason  \n9"
+    },
+    {
+        "question":"Describe the limitations of farm mechanization",
+        "context":"Describe the limitations of farm mechanization\n\uf0b7 Unskilled farm labour is not required hence many cases of unemployment  \n\uf0b7 Inadequate capital to purchase machines \n\uf0b7 Highly skilled operations require higher wages",
+        "answer":"\uf0b7 Unskilled farm labour is not required hence many cases of unemployment  \n\uf0b7 Inadequate capital to purchase machines \n\uf0b7 Highly skilled operations require higher wages"
+    },
+    {
+        "question":"Describe four daily maintenance practices carried out on an ox-plough",
+        "context":"Describe four daily maintenance practices carried out on an ox-plough\n\uf0b7 Lubricate land wheel hub  \n\uf0b7 Clean after use  \n\uf0b7 Check and tighten loose nuts and bolts before the day\u2019s work  \n\uf0b7 Replace worn out parts `",
+        "answer":"\uf0b7 Lubricate land wheel hub  \n\uf0b7 Clean after use  \n\uf0b7 Check and tighten loose nuts and bolts before the day\u2019s work  \n\uf0b7 Replace worn out parts `"
+    },
+    {
+        "question":"Name tractor-drawn implements that are mounted on a three point hitch",
+        "context":"Name tractor-drawn implements that are mounted on a three point hitch\n\uf0b7 Ploughs  \n\uf0b7 Subsoiler",
+        "answer":"\uf0b7 Ploughs  \n\uf0b7 Subsoiler"
+    },
+    {
+        "question":"Describe the safety measures when using",
+        "context":"Describe the safety measures when using\na. Carts  \n\uf0b7 Do not pull carts through buildings  \n\uf0b7 Grease moving parts of the wheel \n\uf0b7 Replace broken parts  \nb. Sprayers  \n\uf0b7 Dispose of any chemical left overs and empty containers properly  \n\uf0b7 Clean spraying equipment thoroughly  \n\uf0b7 Keep proper records of all chemical applications",
+        "answer":"a. Carts  \n\uf0b7 Do not pull carts through buildings  \n\uf0b7 Grease moving parts of the wheel \n\uf0b7 Replace broken parts  \nb. Sprayers  \n\uf0b7 Dispose of any chemical left overs and empty containers properly  \n\uf0b7 Clean spraying equipment thoroughly  \n\uf0b7 Keep proper records of all chemical applications"
+    },
+    {
+        "question":"Outline the limitations of human power",
+        "context":"Outline the limitations of human power\n\uf0b7 Slow  \n\uf0b7 Low work output  \n\uf0b7 Unreliable since it depends on the health of the worker  \n\uf0b7 Relies on level of skill of the worker  \n\uf0b7 Less motivation cam reduce productivity",
+        "answer":"\uf0b7 Slow  \n\uf0b7 Low work output  \n\uf0b7 Unreliable since it depends on the health of the worker  \n\uf0b7 Relies on level of skill of the worker  \n\uf0b7 Less motivation cam reduce productivity"
+    },
+    {
+        "question":"Explain how to enhance animal power",
+        "context":"Explain how to enhance animal power\n\uf0b7 Use mature animals  \n\uf0b7 Use animals with fairly large body weight \n\uf0b7 Indigenous breeds are hardy and better used to generate power  \n\uf0b7 Harness the animals properly to be comfortable when working  \n\uf0b7 Use well trained animals",
+        "answer":"\uf0b7 Use mature animals  \n\uf0b7 Use animals with fairly large body weight \n\uf0b7 Indigenous breeds are hardy and better used to generate power  \n\uf0b7 Harness the animals properly to be comfortable when working  \n\uf0b7 Use well trained animals"
+    },
+    {
+        "question":"Name two farm operations which are powered by wind power",
+        "context":"Name two farm operations which are powered by wind power\n\uf0b7 Pumping water from boreholes  \n\uf0b7 Generating electricity  \n\uf0b7 Winnowing crops  \n \n \nCompiled by L.L Mpandason  \n10",
+        "answer":"\uf0b7 Pumping water from boreholes  \n\uf0b7 Generating electricity  \n\uf0b7 Winnowing crops  \n \n \nCompiled by L.L Mpandason  \n10"
+    },
+    {
+        "question":"Identify the main components of biogas",
+        "context":"Identify the main components of biogas\n\uf0b7 Methane (60 \u2013 70%) \n\uf0b7 Carbon dioxide (29%) \n\uf0b7 Nitrogen (1%) \n\uf0b7 Carbon monoxide (0.1%) \n\uf0b7 Oxygen (0.1%) \n\uf0b7 Hydrogen sulphide (traces)",
+        "answer":"\uf0b7 Methane (60 \u2013 70%) \n\uf0b7 Carbon dioxide (29%) \n\uf0b7 Nitrogen (1%) \n\uf0b7 Carbon monoxide (0.1%) \n\uf0b7 Oxygen (0.1%) \n\uf0b7 Hydrogen sulphide (traces)"
+    },
+    {
+        "question":"State the advantages of biogas",
+        "context":"State the advantages of biogas\n\uf0b7 Environmental friendly  \n\uf0b7 It is cheap to generate  \n\uf0b7 It is an excellent source of manure  \n\uf0b7 It has low maintenance costs",
+        "answer":"\uf0b7 Environmental friendly  \n\uf0b7 It is cheap to generate  \n\uf0b7 It is an excellent source of manure  \n\uf0b7 It has low maintenance costs"
+    },
+    {
+        "question":"Describe the uses of water power",
+        "context":"Describe the uses of water power\n\uf0b7 Drive water mills which are used in grinding of cereal crops \n\uf0b7 Transport or ferry logs in navigatable rivers  \n\uf0b7 Operate a hydro pump to draw water for domestic use",
+        "answer":"\uf0b7 Drive water mills which are used in grinding of cereal crops \n\uf0b7 Transport or ferry logs in navigatable rivers  \n\uf0b7 Operate a hydro pump to draw water for domestic use"
+    },
+    {
+        "question":"State the limitations of mechanical power",
+        "context":"State the limitations of mechanical power\n\uf0b7 It is very expensive  \n\uf0b7 Machines need maintenance costs",
+        "answer":"\uf0b7 It is very expensive  \n\uf0b7 Machines need maintenance costs"
+    },
+    {
+        "question":"Suggest two uses of solar energy",
+        "context":"Suggest two uses of solar energy\n\uf0b7 Heating  \n\uf0b7 Cooking  \n\uf0b7 Lighting",
+        "answer":"\uf0b7 Heating  \n\uf0b7 Cooking  \n\uf0b7 Lighting"
+    },
+    {
+        "question":"Name the equipment required in harnessing solar energy",
+        "context":"Name the equipment required in harnessing solar energy\n\uf0b7 Solar panels  \n\uf0b7 Storage batteries",
+        "answer":"\uf0b7 Solar panels  \n\uf0b7 Storage batteries"
+    },
+    {
+        "question":"Outline the disadvantages of using solar energy",
+        "context":"Outline the disadvantages of using solar energy\n\uf0b7 It is unreliable  \n\uf0b7 It is relatively expensive to install  \n\uf0b7 It is requires skills to install and maintenance  \n\uf0b7 It cannot be directly used on most farm operations",
+        "answer":"\uf0b7 It is unreliable  \n\uf0b7 It is relatively expensive to install  \n\uf0b7 It is requires skills to install and maintenance  \n\uf0b7 It cannot be directly used on most farm operations"
+    },
+    {
+        "question":"List some gender specific operations for women",
+        "context":"List some gender specific operations for women\n\uf0b7 Hard threshing  \n\uf0b7 Digging  \n\uf0b7 Weeding  \n\uf0b7 Planting  \n\uf0b7 Harvesting  \n \n \nCompiled by L.L Mpandason  \n11 \n\uf0b7 Storage of produce as grains",
+        "answer":"\uf0b7 Hard threshing  \n\uf0b7 Digging  \n\uf0b7 Weeding  \n\uf0b7 Planting  \n\uf0b7 Harvesting  \n \n \nCompiled by L.L Mpandason  \n11 \n\uf0b7 Storage of produce as grains"
+    },
+    {
+        "question":"Suggest some male dominated activities in farms",
+        "context":"Suggest some male dominated activities in farms\n\uf0b7 Driving tractors  \n\uf0b7 Working with oxen \n\uf0b7 Mechanical threshing  \n\uf0b7 Driving combine harvesters  \n\uf0b7 Watering fields  \n\uf0b7 Watering fields  \n\uf0b7 Spraying crops",
+        "answer":"\uf0b7 Driving tractors  \n\uf0b7 Working with oxen \n\uf0b7 Mechanical threshing  \n\uf0b7 Driving combine harvesters  \n\uf0b7 Watering fields  \n\uf0b7 Watering fields  \n\uf0b7 Spraying crops"
+    },
+    {
+        "question":"State two causes of gender bias in agricultural technology",
+        "context":"State two causes of gender bias in agricultural technology\n\uf0b7 Socialization  \n\uf0b7 Lack of proper education  \n\uf0b7 Lack of access to appropriate skills",
+        "answer":"\uf0b7 Socialization  \n\uf0b7 Lack of proper education  \n\uf0b7 Lack of access to appropriate skills"
+    },
+    {
+        "question":"Identify the effects of gender bias in agricultural technology",
+        "context":"Identify the effects of gender bias in agricultural technology\n\uf0b7 Declining drop yields hence shortage of food \n\uf0b7 Labour shortage  \n\uf0b7 Increased poverty  \n\uf0b7 Environmental degradation",
+        "answer":"\uf0b7 Declining drop yields hence shortage of food \n\uf0b7 Labour shortage  \n\uf0b7 Increased poverty  \n\uf0b7 Environmental degradation"
+    },
+    {
+        "question":"Explain how culture contributes to gender bias in agricultural technology",
+        "context":"Explain how culture contributes to gender bias in agricultural technology\n\uf0b7 Traditional cultural values place women at a lower rank in the society \n\uf0b7 Culture socializes people to believe there are male and female jobs \n\uf0b7 Lack of proper education for women makes them unable to operate machines due \nto lack of relevant skills",
+        "answer":"\uf0b7 Traditional cultural values place women at a lower rank in the society \n\uf0b7 Culture socializes people to believe there are male and female jobs \n\uf0b7 Lack of proper education for women makes them unable to operate machines due \nto lack of relevant skills"
+    },
+    {
+        "question":"Explain how gender bias in agricultural technology can be eliminated",
+        "context":"Explain how gender bias in agricultural technology can be eliminated\n\uf0b7 Change the traditional cultural values and norms  \n\uf0b7 Increase access to education by women  \n\uf0b7 Empower women politically al degradation  \n\uf0b7 Empower women economically",
+        "answer":"\uf0b7 Change the traditional cultural values and norms  \n\uf0b7 Increase access to education by women  \n\uf0b7 Empower women politically al degradation  \n\uf0b7 Empower women economically"
+    },
+    {
+        "question":"How does gender bias lead to low agricultural production",
+        "context":"How does gender bias lead to low agricultural production\n\uf0b7 Preforming operations manually instead of mechanizing agriculture \n\uf0b7 Inadequate labour to work on the farm hence low production \n\uf0b7 Environmental degradation increases hence loss of important plant nutrients",
+        "answer":"\uf0b7 Preforming operations manually instead of mechanizing agriculture \n\uf0b7 Inadequate labour to work on the farm hence low production \n\uf0b7 Environmental degradation increases hence loss of important plant nutrients"
+    },
+    {
+        "question":"What do you understand by the term improved farming technology",
+        "context":"What do you understand by the term improved farming technology\n\uf0b7 Improved farming technology is the use of practices and innovations that \nincreases agricultural production and at that same time conserving the \nenvironment",
+        "answer":"\uf0b7 Improved farming technology is the use of practices and innovations that \nincreases agricultural production and at that same time conserving the \nenvironment"
+    },
+    {
+        "question":"Outline three characteristics of improved livestock breeds",
+        "context":"Outline three characteristics of improved livestock breeds\nCompiled by L.L Mpandason  \n12 \n\uf0b7 Resistance to tropical diseases  \n\uf0b7 High tolerance to infestation by both internal and external parasites \n\uf0b7 High prolificacy",
+        "answer":"Compiled by L.L Mpandason  \n12 \n\uf0b7 Resistance to tropical diseases  \n\uf0b7 High tolerance to infestation by both internal and external parasites \n\uf0b7 High prolificacy"
+    },
+    {
+        "question":"What environmental conditions can be controlled in green house",
+        "context":"What environmental conditions can be controlled in green house\n\uf0b7 Soil moisture content  \n\uf0b7 Relative humidity  \n\uf0b7 Carbon dioxide concentration  \n\uf0b7 Temperature  \n\uf0b7 Light duration \n\uf0b7 Pest invasion  \n\uf0b7 Disease attack",
+        "answer":"\uf0b7 Soil moisture content  \n\uf0b7 Relative humidity  \n\uf0b7 Carbon dioxide concentration  \n\uf0b7 Temperature  \n\uf0b7 Light duration \n\uf0b7 Pest invasion  \n\uf0b7 Disease attack"
+    },
+    {
+        "question":"Describe the role of irrigation in improving food security",
+        "context":"Describe the role of irrigation in improving food security\n\uf0b7 Enables growing of crops in arid and semi-arid areas \n\uf0b7 Enables growing of crops even during the dry season \n\uf0b7 Allows growing of crops outside their ecological zones  \n\uf0b7 Enables growing of crops inside special structures such as green house",
+        "answer":"\uf0b7 Enables growing of crops in arid and semi-arid areas \n\uf0b7 Enables growing of crops even during the dry season \n\uf0b7 Allows growing of crops outside their ecological zones  \n\uf0b7 Enables growing of crops inside special structures such as green house"
+    },
+    {
+        "question":"Explain how each of the following increases food supply",
+        "context":"Explain how each of the following increases food supply\na. Crop rotation \n\uf0b7 Reduces competition with weeds  \n\uf0b7 Reduces attack and damage by pests  \n\uf0b7 Reduces attack by disease hence plant grow vigorously and gives high yields  \nb. Use of draught animals \n\uf0b7 Allows farming in steep areas where tractors cannot work  \n\uf0b7 Allows farming on irregular pieces of land  \n\uf0b7 Increases the work output and hence high yield \nc. Improved means of communication  \n\uf0b7 Farmers have access to vital information when they need it \n\uf0b7 Farmers are able to monitor market trends and hence appropriate time and market \nto sell their produce  \n\uf0b7 Eliminates likelihood of exploitation by middleman",
+        "answer":"a. Crop rotation \n\uf0b7 Reduces competition with weeds  \n\uf0b7 Reduces attack and damage by pests  \n\uf0b7 Reduces attack by disease hence plant grow vigorously and gives high yields  \nb. Use of draught animals \n\uf0b7 Allows farming in steep areas where tractors cannot work  \n\uf0b7 Allows farming on irregular pieces of land  \n\uf0b7 Increases the work output and hence high yield \nc. Improved means of communication  \n\uf0b7 Farmers have access to vital information when they need it \n\uf0b7 Farmers are able to monitor market trends and hence appropriate time and market \nto sell their produce  \n\uf0b7 Eliminates likelihood of exploitation by middleman"
+    },
+    {
+        "question":"Define the following terms",
+        "context":"Define the following terms\na. Trade  \n\uf0b7 Trade is the practice of buying commodities and then selling them to consumer at a \nprofit \nb. Marketing  \n\uf0b7 Marketing refers to the processes involved in the transformation and flow of goods \nfrom the producer to the consumer \n \n \nCompiled by L.L Mpandason  \n13",
+        "answer":"a. Trade  \n\uf0b7 Trade is the practice of buying commodities and then selling them to consumer at a \nprofit \nb. Marketing  \n\uf0b7 Marketing refers to the processes involved in the transformation and flow of goods \nfrom the producer to the consumer \n \n \nCompiled by L.L Mpandason  \n13"
+    },
+    {
+        "question":"Give three differences between marketing and trading",
+        "context":"Give three differences between marketing and trading\n\uf0b7  \nMARKETING  \nTRADING  \nAims at satisfying the consumer  \nPrimarily concerned with the total sales \nVery wide with many processes  \nNarrow; only buying and selling \nProceeded with research to determine what the \nconsumer wants \nUses resources to buy and then sell at a \nprofit  \nDemand driven to make some profit  \nAims at making profit by disposing \nsurplus commodity",
+        "answer":"\uf0b7  \nMARKETING  \nTRADING  \nAims at satisfying the consumer  \nPrimarily concerned with the total sales \nVery wide with many processes  \nNarrow; only buying and selling \nProceeded with research to determine what the \nconsumer wants \nUses resources to buy and then sell at a \nprofit  \nDemand driven to make some profit  \nAims at making profit by disposing \nsurplus commodity"
+    },
+    {
+        "question":"Explain four benefits of trading agricultural produce at the following levels",
+        "context":"Explain four benefits of trading agricultural produce at the following levels\na. International level  \n\uf0b7 A country is able to get agricultural commodities it does not produce  \n\uf0b7 A country earns foreign exchange  \n\uf0b7 Improves international relations  \n\uf0b7 Widens the market for a country\u2019s agricultural commodities  \n\uf0b7 Increases chances of getting humanitarian aid from trade partners in case of \ncalamity  \n\uf0b7 Improves the living standards of the citizens of a country  \n\uf0b7 Improves a country\u2019s transport and communications facilities  \n\uf0b7 Encourages specialization in particular agricultural commodities  \nb. National level \n\uf0b7 Ensures availability of a variety of commodities in the market \n\uf0b7 A region is able to get commodities that it does not produce \n\uf0b7 It creates and promotes understanding amongst various communities in the country  \n\uf0b7 It promotes specialization  \n\uf0b7 It enables producers to dispose surplus commodities  \n\uf0b7 It ensures steady of various agricultural commodities  \n\uf0b7 It creates urban population to get food  \n\uf0b7 It promotes agricultural allied industries",
+        "answer":"a. International level  \n\uf0b7 A country is able to get agricultural commodities it does not produce  \n\uf0b7 A country earns foreign exchange  \n\uf0b7 Improves international relations  \n\uf0b7 Widens the market for a country\u2019s agricultural commodities  \n\uf0b7 Increases chances of getting humanitarian aid from trade partners in case of \ncalamity  \n\uf0b7 Improves the living standards of the citizens of a country  \n\uf0b7 Improves a country\u2019s transport and communications facilities  \n\uf0b7 Encourages specialization in particular agricultural commodities  \nb. National level \n\uf0b7 Ensures availability of a variety of commodities in the market \n\uf0b7 A region is able to get commodities that it does not produce \n\uf0b7 It creates and promotes understanding amongst various communities in the country  \n\uf0b7 It promotes specialization  \n\uf0b7 It enables producers to dispose surplus commodities  \n\uf0b7 It ensures steady of various agricultural commodities  \n\uf0b7 It creates urban population to get food  \n\uf0b7 It promotes agricultural allied industries"
+    },
+    {
+        "question":"Suggest two ways by which population distribution affects marketing",
+        "context":"Suggest two ways by which population distribution affects marketing\n\uf0b7 High supply of produce in high density areas  \n\uf0b7 Low supply of produce in low density areas  \n\uf0b7 More outlets of produce in high density areas  \n\uf0b7 Low outlets of produce in low density areas \n\uf0b7 Longer marketing channels in high density areas  \n\uf0b7 Shorter marketing channels in low density areas",
+        "answer":"\uf0b7 High supply of produce in high density areas  \n\uf0b7 Low supply of produce in low density areas  \n\uf0b7 More outlets of produce in high density areas  \n\uf0b7 Low outlets of produce in low density areas \n\uf0b7 Longer marketing channels in high density areas  \n\uf0b7 Shorter marketing channels in low density areas"
+    },
+    {
+        "question":"Describe four ways of improving trading of agricultural produce at",
+        "context":"Describe four ways of improving trading of agricultural produce at\nCompiled by L.L Mpandason  \n14 \na. Community level  \n\uf0b7 Ensure roads are all-weather, that is passable in all weather conditions  \n\uf0b7 Promotes the growth of rural trading centers  \n\uf0b7 Promote peaceful and harmonious co-existence among the neighboring \ncommunities  \n\uf0b7 Promotes communication facilities such as radios, televisions  and telephones  \nb. National level  \n\uf0b7 Improve transport infrastructure such as roads, railways and airways  \n\uf0b7 Improve commination facilities \n\uf0b7 Promote adequate market information of major agricultural commodities  \n\uf0b7 Establish butter stocks to safeguard on price fluctuation  \n\uf0b7 Harmonise taxation to prevent over taxation",
+        "answer":"Compiled by L.L Mpandason  \n14 \na. Community level  \n\uf0b7 Ensure roads are all-weather, that is passable in all weather conditions  \n\uf0b7 Promotes the growth of rural trading centers  \n\uf0b7 Promote peaceful and harmonious co-existence among the neighboring \ncommunities  \n\uf0b7 Promotes communication facilities such as radios, televisions  and telephones  \nb. National level  \n\uf0b7 Improve transport infrastructure such as roads, railways and airways  \n\uf0b7 Improve commination facilities \n\uf0b7 Promote adequate market information of major agricultural commodities  \n\uf0b7 Establish butter stocks to safeguard on price fluctuation  \n\uf0b7 Harmonise taxation to prevent over taxation"
+    },
+    {
+        "question":"List four marketing agencies of agricultural commodities",
+        "context":"List four marketing agencies of agricultural commodities\n\uf0b7 Marketing boards\/ Government parastatals  \n\uf0b7 Retailers  \n\uf0b7 Wholesalers  \n\uf0b7 Processors  \n\uf0b7 Brokers  \n\uf0b7 Itinerant agents",
+        "answer":"\uf0b7 Marketing boards\/ Government parastatals  \n\uf0b7 Retailers  \n\uf0b7 Wholesalers  \n\uf0b7 Processors  \n\uf0b7 Brokers  \n\uf0b7 Itinerant agents"
+    },
+    {
+        "question":"State two marketing costs",
+        "context":"State two marketing costs\n\uf0b7 Transport costs  \n\uf0b7 Capital and financing costs  \n\uf0b7 Cost of production losses",
+        "answer":"\uf0b7 Transport costs  \n\uf0b7 Capital and financing costs  \n\uf0b7 Cost of production losses"
+    },
+    {
+        "question":"What is a marketing channel",
+        "context":"What is a marketing channel\n\uf0b7 This is the pathway a particular good follows from the producer until it reaches \nthe ultimate consumer",
+        "answer":"\uf0b7 This is the pathway a particular good follows from the producer until it reaches \nthe ultimate consumer"
+    },
+    {
+        "question":"Given the following information, calculate the marketing margin for coffee beans after milling",
+        "context":"Given the following information, calculate the marketing margin for coffee beans after milling\nto the final product, coffee grounds \n\uf0b7 The conversion ratio of coffee beans  to coffee ground is 0.6 \n\uf0b7 0.3kg of husks are realized for every 1kg of coffee beans valued at 50MK\/kg \n\uf0b7 The buying price of coffee beans is 200MK\/kg and the selling price of ground coffee \nis 450MK\/kg \nSolution \n \n \n= (0.6 \u00d7 450) + (0.3 \u00d750) \n \n \n=270 + 15 \n \n \n= 285MK \n \n \nCompiled by L.L Mpandason  \n15 \n \n \n=\n       \n   \n \u00d7 100 \n \n \n=\n  \n    \u00d7100 \n \n \n= 42.5% Answer",
+        "answer":"to the final product, coffee grounds \n\uf0b7 The conversion ratio of coffee beans  to coffee ground is 0.6 \n\uf0b7 0.3kg of husks are realized for every 1kg of coffee beans valued at 50MK\/kg \n\uf0b7 The buying price of coffee beans is 200MK\/kg and the selling price of ground coffee \nis 450MK\/kg \nSolution \n \n \n= (0.6 \u00d7 450) + (0.3 \u00d750) \n \n \n=270 + 15 \n \n \n= 285MK \n \n \nCompiled by L.L Mpandason  \n15 \n \n \n=\n       \n   \n \u00d7 100 \n \n \n=\n  \n    \u00d7100 \n \n \n= 42.5% Answer"
+    },
+    {
+        "question":"Define the terms",
+        "context":"Define the terms\na. Price elasticity of demand  \n \n\uf0b7 Is the sensitivity of demand to changes in price \n\uf0b7 It measures the quantity of goods demanded when the price changes  \nb. Prince elasticity of supply  \n\uf0b7 Is the sensitivity of supply to changes in price  \n\uf0b7 It measures the quantity of goods supplied when the price changes",
+        "answer":"a. Price elasticity of demand  \n \n\uf0b7 Is the sensitivity of demand to changes in price \n\uf0b7 It measures the quantity of goods demanded when the price changes  \nb. Prince elasticity of supply  \n\uf0b7 Is the sensitivity of supply to changes in price  \n\uf0b7 It measures the quantity of goods supplied when the price changes"
+    },
+    {
+        "question":"Give two reasons why most agricultural commodities have an inelastic demand",
+        "context":"Give two reasons why most agricultural commodities have an inelastic demand\n\uf0b7 They have a high perishability  \n\uf0b7 They are basic commodities",
+        "answer":"\uf0b7 They have a high perishability  \n\uf0b7 They are basic commodities"
+    },
+    {
+        "question":"What do you understand by the following terms",
+        "context":"What do you understand by the following terms\na. Elastic demand  \n\uf0b7 Elastic demand is a situation where the quantity demanded changes by a higher \npercentage than the change in price  \nb. Inelastic supply  \n\uf0b7 Inelastic supply is a situation where the quantity supplied changes by a lower \npercentage than the change in price",
+        "answer":"a. Elastic demand  \n\uf0b7 Elastic demand is a situation where the quantity demanded changes by a higher \npercentage than the change in price  \nb. Inelastic supply  \n\uf0b7 Inelastic supply is a situation where the quantity supplied changes by a lower \npercentage than the change in price"
+    },
+    {
+        "question":"What is:",
+        "context":"What is:\na. Supply schedule  \n\uf0b7 Is a table that shows the quantity of a good the suppliers in a market will supply at \nevery different price  \nb. Demand schedule \n\uf0b7 Is a table that shows the quantity of good the consumers in a market will buy at \nevery different price",
+        "answer":"a. Supply schedule  \n\uf0b7 Is a table that shows the quantity of a good the suppliers in a market will supply at \nevery different price  \nb. Demand schedule \n\uf0b7 Is a table that shows the quantity of good the consumers in a market will buy at \nevery different price"
+    },
+    {
+        "question":"Use the table below to answer the questions that follow. The table shows the demand and",
+        "context":"Use the table below to answer the questions that follow. The table shows the demand and\nsupply schedule for tomatoes in a market \nPrice in MK\/kg \nQuality demanded (kg) \nQuantity demanded (kg) \n20 \n24 \n28 \n32 \n36 \n40 \n600 \n500 \n400 \n300 \n200 \n100 \n200 \n250 \n290 \n320 \n350 \n355 \n \n \nCompiled by L.L Mpandason  \n16 \na. Calculate the elasticity of demand when the prince: \ni. Changes from 20 Mk\/kg to 24Mk\/kg \nEd =\n  \n   \n  \n   \n=\n       \n      \n  \n    \n=\n   \n  \n  \n    \n=\n    \n     \n=0.83 \nii. Changes from 40Mk\/kg TO 36Mk\/kg \n=\n       \n      \n  \n    \n=\n   \n  \n  \n    \n=\n    \n    \n=10 \nb. Calculate the elasticity of supply when the price changes from  \ni. 20Mk\/kg to 24Mk\/kg \nEs =\n  \n   \n  \n   \n=\n       \n      \n  \n    \n=\n  \n  \n  \n    \n=\n   \n     \n=0.13 \nii. Changes from 40Mk\/kg TO 36Mk\/kg \n=\n       \n      \n  \n    \n=\n \n  \n  \n    \n=\n   \n     \n=0.15 \n \n \nCompiled by L.L Mpandason  \n17",
+        "answer":"supply schedule for tomatoes in a market \nPrice in MK\/kg \nQuality demanded (kg) \nQuantity demanded (kg) \n20 \n24 \n28 \n32 \n36 \n40 \n600 \n500 \n400 \n300 \n200 \n100 \n200 \n250 \n290 \n320 \n350 \n355 \n \n \nCompiled by L.L Mpandason  \n16 \na. Calculate the elasticity of demand when the prince: \ni. Changes from 20 Mk\/kg to 24Mk\/kg \nEd =\n  \n   \n  \n   \n=\n       \n      \n  \n    \n=\n   \n  \n  \n    \n=\n    \n     \n=0.83 \nii. Changes from 40Mk\/kg TO 36Mk\/kg \n=\n       \n      \n  \n    \n=\n   \n  \n  \n    \n=\n    \n    \n=10 \nb. Calculate the elasticity of supply when the price changes from  \ni. 20Mk\/kg to 24Mk\/kg \nEs =\n  \n   \n  \n   \n=\n       \n      \n  \n    \n=\n  \n  \n  \n    \n=\n   \n     \n=0.13 \nii. Changes from 40Mk\/kg TO 36Mk\/kg \n=\n       \n      \n  \n    \n=\n \n  \n  \n    \n=\n   \n     \n=0.15 \n \n \nCompiled by L.L Mpandason  \n17"
+    },
+    {
+        "question":"Explain the meaning of crop improvement",
+        "context":"Explain the meaning of crop improvement\n\uf0b7 Crop improvement refers to plant breeding processes which changes the genetics \nof plant in order to produce desired characteristics",
+        "answer":"\uf0b7 Crop improvement refers to plant breeding processes which changes the genetics \nof plant in order to produce desired characteristics"
+    },
+    {
+        "question":"State the aims of crop improvement",
+        "context":"State the aims of crop improvement\n\uf0b7 To improve adaptation of plants to different ecological conditions  \n\uf0b7 To increase the average crop yields  \n\uf0b7 To improve the nutritional content of edible plant parts  \n\uf0b7 To increase the market value of crop products  \n\uf0b7 To increase resistance to pests and diseases \n\uf0b7 To develop crops with ease of adaptation to new agricultural areas \n\uf0b7 To develop crops well adapted to modern production technologies",
+        "answer":"\uf0b7 To improve adaptation of plants to different ecological conditions  \n\uf0b7 To increase the average crop yields  \n\uf0b7 To improve the nutritional content of edible plant parts  \n\uf0b7 To increase the market value of crop products  \n\uf0b7 To increase resistance to pests and diseases \n\uf0b7 To develop crops with ease of adaptation to new agricultural areas \n\uf0b7 To develop crops well adapted to modern production technologies"
+    },
+    {
+        "question":"Explain the meaning of the following terms",
+        "context":"Explain the meaning of the following terms\na. Base collection \n\uf0b7 Refers to seeds conserved for a long term usually 50 -100 years at about -20oC \nwith 5% moisture content. They are used for regeneration  \nb. Active collection \n\uf0b7 Active collections are seeds stored for medium duration usually 10 -15 years at \n0oC with 5 -8% moisture content. They are used  for multiplication and evaluation  \nc. Working collection  \n\uf0b7 Working collections are seeds stored for a short duration usually 3 -5 years at 5 -\n10oC with 10% moisture content. They are regularly used in crop improvement \nprograms",
+        "answer":"a. Base collection \n\uf0b7 Refers to seeds conserved for a long term usually 50 -100 years at about -20oC \nwith 5% moisture content. They are used for regeneration  \nb. Active collection \n\uf0b7 Active collections are seeds stored for medium duration usually 10 -15 years at \n0oC with 5 -8% moisture content. They are used  for multiplication and evaluation  \nc. Working collection  \n\uf0b7 Working collections are seeds stored for a short duration usually 3 -5 years at 5 -\n10oC with 10% moisture content. They are regularly used in crop improvement \nprograms"
+    },
+    {
+        "question":"What is hybridization",
+        "context":"What is hybridization\n\uf0b7 Hybridization is the combination of desirable genes found in to or more different \nvarieties to produce pure- breeding progeny which is superior in many aspects to \nthe parental types",
+        "answer":"\uf0b7 Hybridization is the combination of desirable genes found in to or more different \nvarieties to produce pure- breeding progeny which is superior in many aspects to \nthe parental types"
+    },
+    {
+        "question":"Name the gene banks used in ex-situ conservation of germ plasm",
+        "context":"Name the gene banks used in ex-situ conservation of germ plasm\n\uf0b7 Seed banks  \n\uf0b7 Plant bank  \n\uf0b7 Shoot tip bank",
+        "answer":"\uf0b7 Seed banks  \n\uf0b7 Plant bank  \n\uf0b7 Shoot tip bank"
+    },
+    {
+        "question":"Outline the activities in crop improvement",
+        "context":"Outline the activities in crop improvement\n\uf0b7 Collection of germ plasm  \n\uf0b7 Germ plasm conservation  \n\uf0b7 Germ plasm evaluation  \n\uf0b7 Germ plasm cataloguing, data storage and retrieval  \n\uf0b7 Actual improvement  \n\uf0b7 Demonstrations to prove success of research objective  \n\uf0b7 Seed multiplication  \n \n \nCompiled by L.L Mpandason  \n18 \n\uf0b7 Seed distribution",
+        "answer":"\uf0b7 Collection of germ plasm  \n\uf0b7 Germ plasm conservation  \n\uf0b7 Germ plasm evaluation  \n\uf0b7 Germ plasm cataloguing, data storage and retrieval  \n\uf0b7 Actual improvement  \n\uf0b7 Demonstrations to prove success of research objective  \n\uf0b7 Seed multiplication  \n \n \nCompiled by L.L Mpandason  \n18 \n\uf0b7 Seed distribution"
+    },
+    {
+        "question":"What is germ plasm",
+        "context":"What is germ plasm\n\uf0b7 Germ plasm refers to all the alleles of various genes present in a crop species and \nits wild relatives. Also known as genetic resources or gene pool or genetic stock",
+        "answer":"\uf0b7 Germ plasm refers to all the alleles of various genes present in a crop species and \nits wild relatives. Also known as genetic resources or gene pool or genetic stock"
+    },
+    {
+        "question":"Outline the characteristics of a gene pool",
+        "context":"Outline the characteristics of a gene pool\n\uf0b7 Genetic plasm consist of land races, modern cultivars, obsolete cultivars, breeding \nstocks, wild forms and wild species of cultivated crops \n\uf0b7 Genetic pool represents the entire genetic diversity available on crop species  \n\uf0b7 Germ plasm is collected from centers of diversity, gene banks, gene sanctuaries, \nfarmer\u2019s fields, markets and seed companies  \n\uf0b7 Germ plasm is basic material for launching a crop improvement programme.  \n\uf0b7 Germ plasm may be indigenous or exotic",
+        "answer":"\uf0b7 Genetic plasm consist of land races, modern cultivars, obsolete cultivars, breeding \nstocks, wild forms and wild species of cultivated crops \n\uf0b7 Genetic pool represents the entire genetic diversity available on crop species  \n\uf0b7 Germ plasm is collected from centers of diversity, gene banks, gene sanctuaries, \nfarmer\u2019s fields, markets and seed companies  \n\uf0b7 Germ plasm is basic material for launching a crop improvement programme.  \n\uf0b7 Germ plasm may be indigenous or exotic"
+    },
+    {
+        "question":"Give the aims of germ plasm evaluation",
+        "context":"Give the aims of germ plasm evaluation\n\uf0b7 To identify gene sources for resistance to biotic and abiotic stresses, earliness, \ndwarfness, productivity and quality traits",
+        "answer":"\uf0b7 To identify gene sources for resistance to biotic and abiotic stresses, earliness, \ndwarfness, productivity and quality traits"
+    },
+    {
+        "question":"Distinguish in-situ and ex-situ conservation of germ",
+        "context":"Distinguish in-situ and ex-situ conservation of germ\n\uf0b7 In- situ conservation involves preserving germ plasm under natural conditions such \nas national parks while Ex-situ conservation involves preserving germ plasm in \ngene banks",
+        "answer":"\uf0b7 In- situ conservation involves preserving germ plasm under natural conditions such \nas national parks while Ex-situ conservation involves preserving germ plasm in \ngene banks"
+    },
+    {
+        "question":"Define the term processing",
+        "context":"Define the term processing\n\uf0b7 is the changing of raw forms of produce into a finished product of higher value \nwhich can be preserved for future use",
+        "answer":"\uf0b7 is the changing of raw forms of produce into a finished product of higher value \nwhich can be preserved for future use"
+    },
+    {
+        "question":"State the importance of crop processing",
+        "context":"State the importance of crop processing\n\uf0b7 Improves the shelf-life of the products \n\uf0b7 Improves taste of the produce  \n\uf0b7 Adds value to crops  \n\uf0b7 Provides employment opportunities  \n\uf0b7 If exported, it earns the country foreign currency",
+        "answer":"\uf0b7 Improves the shelf-life of the products \n\uf0b7 Improves taste of the produce  \n\uf0b7 Adds value to crops  \n\uf0b7 Provides employment opportunities  \n\uf0b7 If exported, it earns the country foreign currency"
+    },
+    {
+        "question":"Define blanching  in crop processing",
+        "context":"Define blanching  in crop processing\n\uf0b7 Blanching is the act of immersing a crop briefly in boiling water",
+        "answer":"\uf0b7 Blanching is the act of immersing a crop briefly in boiling water"
+    },
+    {
+        "question":"Why would blanching be done in crop processing",
+        "context":"Why would blanching be done in crop processing\n\uf0b7 To retain original characteristics like colour and texture of the product",
+        "answer":"\uf0b7 To retain original characteristics like colour and texture of the product"
+    },
+    {
+        "question":"Suggest reasons why maize grains should be dried properly before storage",
+        "context":"Suggest reasons why maize grains should be dried properly before storage\n\uf0b7 To minimize incidents of moulds developing on the testa which causes the deadly \naflatoxin \n\uf0b7 To make the testa hard to resist insect attack  \n\uf0b7 To reduce transpiration rate in grains hence preserve for long periods \n\uf0b7 To prevent germination of seed when they are in the store  \n \n \nCompiled by L.L Mpandason  \n19",
+        "answer":"\uf0b7 To minimize incidents of moulds developing on the testa which causes the deadly \naflatoxin \n\uf0b7 To make the testa hard to resist insect attack  \n\uf0b7 To reduce transpiration rate in grains hence preserve for long periods \n\uf0b7 To prevent germination of seed when they are in the store  \n \n \nCompiled by L.L Mpandason  \n19"
+    },
+    {
+        "question":"Outline six operations carried out in canning mushrooms",
+        "context":"Outline six operations carried out in canning mushrooms\n\uf0b7 Grading  \n\uf0b7 Cleaning  \n\uf0b7 Blanching  \n\uf0b7 Can filling in brine solutions \n\uf0b7 Sterilization of the cans  \n\uf0b7 Labeling of the cans",
+        "answer":"\uf0b7 Grading  \n\uf0b7 Cleaning  \n\uf0b7 Blanching  \n\uf0b7 Can filling in brine solutions \n\uf0b7 Sterilization of the cans  \n\uf0b7 Labeling of the cans"
+    },
+    {
+        "question":"Describe the preservation of a leafy vegetable through drying",
+        "context":"Describe the preservation of a leafy vegetable through drying\n\uf0b7 Blanch the leaves  \n\uf0b7 Place blanched leaves on baking or metal screen trays \n\uf0b7 Set oven temperatures at 60oC and leave the door open 2 to 4 inches for \nventilation",
+        "answer":"\uf0b7 Blanch the leaves  \n\uf0b7 Place blanched leaves on baking or metal screen trays \n\uf0b7 Set oven temperatures at 60oC and leave the door open 2 to 4 inches for \nventilation"
+    },
+    {
+        "question":"Name the products obtained from processing the groundnut",
+        "context":"Name the products obtained from processing the groundnut\n\uf0b7 Peanut oil  \n\uf0b7 Groundnut butter  \n\uf0b7 Groundnut cake (animal feed)",
+        "answer":"\uf0b7 Peanut oil  \n\uf0b7 Groundnut butter  \n\uf0b7 Groundnut cake (animal feed)"
+    },
+    {
+        "question":"Explain radiation preservation of mushrooms",
+        "context":"Explain radiation preservation of mushrooms\n\uf0b7 Mushrooms are exposed to a radiation of gamma rays to stop the post-harvest \ngrowth and deterioration",
+        "answer":"\uf0b7 Mushrooms are exposed to a radiation of gamma rays to stop the post-harvest \ngrowth and deterioration"
+    },
+    {
+        "question":"What is steeping preservation",
+        "context":"What is steeping preservation\n\uf0b7 Steeping refers to soaking mushrooms in a solution having 10 \u2013 12 % salt",
+        "answer":"\uf0b7 Steeping refers to soaking mushrooms in a solution having 10 \u2013 12 % salt"
+    },
+    {
+        "question":"Define the following terms",
+        "context":"Define the following terms\na. Pasture  \n\uf0b7 Pastures are grasses and legumes found naturally growing in fields or cultivated on \npieces of land for feeding livestock \nb. Grass ley \n\uf0b7 Glass ley are artificial pastures established by man",
+        "answer":"a. Pasture  \n\uf0b7 Pastures are grasses and legumes found naturally growing in fields or cultivated on \npieces of land for feeding livestock \nb. Grass ley \n\uf0b7 Glass ley are artificial pastures established by man"
+    },
+    {
+        "question":"Describe the advantages of mixed stand pasture over pure stand pasture",
+        "context":"Describe the advantages of mixed stand pasture over pure stand pasture\n\uf0b7 Glass- legume pastures have higher nutritive value than pure pastures  \n\uf0b7 Less use of nitrogen  fertilizers for top-dressing or higher soil fertility due to \nnitrogen fixation  \n\uf0b7 The yield of forage per unit area is higher compared to pure stand  \n\uf0b7 Glass \u2013legume mixture is more palatable \n\uf0b7 There are fewer cases of bloat in animals which graze on mixed pastured that on \npure stands \n\uf0b7 There is maximum soil exploitation as different crops have different nutrient \nrequirements \n\uf0b7 There is guaranteed yield in case of failure if one crop  \n \n \nCompiled by L.L Mpandason  \n20",
+        "answer":"\uf0b7 Glass- legume pastures have higher nutritive value than pure pastures  \n\uf0b7 Less use of nitrogen  fertilizers for top-dressing or higher soil fertility due to \nnitrogen fixation  \n\uf0b7 The yield of forage per unit area is higher compared to pure stand  \n\uf0b7 Glass \u2013legume mixture is more palatable \n\uf0b7 There are fewer cases of bloat in animals which graze on mixed pastured that on \npure stands \n\uf0b7 There is maximum soil exploitation as different crops have different nutrient \nrequirements \n\uf0b7 There is guaranteed yield in case of failure if one crop  \n \n \nCompiled by L.L Mpandason  \n20"
+    },
+    {
+        "question":"Suggest the importance of weed control in forage crops",
+        "context":"Suggest the importance of weed control in forage crops\n\uf0b7 Weeds compete with pastures for nutrients, moisture, space and sunlight which \nultimately affect the overall performance of the pastures \n\uf0b7 Weeds interfere with proper pasture establishment thereby prolonging the \nestablishment and maturity period \n\uf0b7 Presence of weeds reduce the quality and overall herbage yields \n\uf0b7 Some weeds such as Datura stramonium may result in livestock poisoning if \naccidentally fed on \n\uf0b7 Weeds shorten the life of pasture stand  \n\uf0b7 Some weeds taint the colour and flavour of milk for example wild onions",
+        "answer":"\uf0b7 Weeds compete with pastures for nutrients, moisture, space and sunlight which \nultimately affect the overall performance of the pastures \n\uf0b7 Weeds interfere with proper pasture establishment thereby prolonging the \nestablishment and maturity period \n\uf0b7 Presence of weeds reduce the quality and overall herbage yields \n\uf0b7 Some weeds such as Datura stramonium may result in livestock poisoning if \naccidentally fed on \n\uf0b7 Weeds shorten the life of pasture stand  \n\uf0b7 Some weeds taint the colour and flavour of milk for example wild onions"
+    },
+    {
+        "question":"Explain the different methods of pasture establishment",
+        "context":"Explain the different methods of pasture establishment\na. Direct sowing  \n\uf0b7 Seeds or vegetative materials are planted directly into a well prepared \nseedbed. It involves the following methods \ni. Vegetative propagation  \n\uf0b7 Vegetative materials such as cuttings and rooted splits are established \ndirectly in the field. The field is prepared and holes dug as per the spacing of \nthe pasture \nii. Broadcasting  \n\uf0b7 The field is prepared to a fine tilth and land leveled. The pasture seeds are \nscattered randomly over the seedbed and then covered with a thin layer of \nsoil  \niii. Drilling  \n\uf0b7 The planting materials are placed in drills at predetermined spacing in \nmanual drilling, a planting line can be used while in mechanized drilling, \nplanters are used  \nb. Under sowing  \n\uf0b7 This is establishment of pasture under an already growing crop usually \nreferred to as nurse crop \nc. Over sowing  \n\uf0b7 This is the establishment of a pasture legume in an existing grass pasture  \n`",
+        "answer":"a. Direct sowing  \n\uf0b7 Seeds or vegetative materials are planted directly into a well prepared \nseedbed. It involves the following methods \ni. Vegetative propagation  \n\uf0b7 Vegetative materials such as cuttings and rooted splits are established \ndirectly in the field. The field is prepared and holes dug as per the spacing of \nthe pasture \nii. Broadcasting  \n\uf0b7 The field is prepared to a fine tilth and land leveled. The pasture seeds are \nscattered randomly over the seedbed and then covered with a thin layer of \nsoil  \niii. Drilling  \n\uf0b7 The planting materials are placed in drills at predetermined spacing in \nmanual drilling, a planting line can be used while in mechanized drilling, \nplanters are used  \nb. Under sowing  \n\uf0b7 This is establishment of pasture under an already growing crop usually \nreferred to as nurse crop \nc. Over sowing  \n\uf0b7 This is the establishment of a pasture legume in an existing grass pasture  \n`"
+    },
+    {
+        "question":"State six benefits of rotational grazing",
+        "context":"State six benefits of rotational grazing\n\uf0b7 Reduces build-up of parasites and disease \n\uf0b7 Allows pasture to re-grow \n\uf0b7 Manure is evenly distributed in the field  \n\uf0b7 Excess forage can be conserved  \n\uf0b7 Allows management practices on unglazed portions  \n \n \nCompiled by L.L Mpandason  \n21 \n\uf0b7 Pastures have increased resistance to drought  \n\uf0b7 Ensures maximum utilization of pastures  \n\uf0b7 Allows certain species of plants to fruits and from seeds",
+        "answer":"\uf0b7 Reduces build-up of parasites and disease \n\uf0b7 Allows pasture to re-grow \n\uf0b7 Manure is evenly distributed in the field  \n\uf0b7 Excess forage can be conserved  \n\uf0b7 Allows management practices on unglazed portions  \n \n \nCompiled by L.L Mpandason  \n21 \n\uf0b7 Pastures have increased resistance to drought  \n\uf0b7 Ensures maximum utilization of pastures  \n\uf0b7 Allows certain species of plants to fruits and from seeds"
+    },
+    {
+        "question":"a. Why is it importance to conserve forage",
+        "context":"a. Why is it importance to conserve forage\n\uf0b7 For better and full utilization of available land  \n\uf0b7 It ensues availability of livestock feed throughout the year even during dry seasons \n\uf0b7 It is a source of income  \n\uf0b7 Provides feed for the dry season when forage re-growth is low \nb. State three methods of forage conservation  \n\uf0b7 Hay making  \n\uf0b7 Silage making  \n\uf0b7 Standby hay\/foggage",
+        "answer":"\uf0b7 For better and full utilization of available land  \n\uf0b7 It ensues availability of livestock feed throughout the year even during dry seasons \n\uf0b7 It is a source of income  \n\uf0b7 Provides feed for the dry season when forage re-growth is low \nb. State three methods of forage conservation  \n\uf0b7 Hay making  \n\uf0b7 Silage making  \n\uf0b7 Standby hay\/foggage"
+    },
+    {
+        "question":"Briefly describe the process of making hay",
+        "context":"Briefly describe the process of making hay\n\uf0b7 Cut the forage crop when 50% of the plant have flowered  \n\uf0b7 Dry the cut crop to about 16 -20% moisture content or for 2 -3 days  \n\uf0b7 Gather the hay and store in a shade \n\uf0b7 Bale the dry material if possible",
+        "answer":"\uf0b7 Cut the forage crop when 50% of the plant have flowered  \n\uf0b7 Dry the cut crop to about 16 -20% moisture content or for 2 -3 days  \n\uf0b7 Gather the hay and store in a shade \n\uf0b7 Bale the dry material if possible"
+    },
+    {
+        "question":"State the factors that affect pasture seed rate",
+        "context":"State the factors that affect pasture seed rate\n\uf0b7 Seed size \n\uf0b7 Soil tilth  \n\uf0b7 Growth habit of pasture  \n\uf0b7 Method of sowing  \n\uf0b7 Seed purity  \n\uf0b7 Germination percentage",
+        "answer":"\uf0b7 Seed size \n\uf0b7 Soil tilth  \n\uf0b7 Growth habit of pasture  \n\uf0b7 Method of sowing  \n\uf0b7 Seed purity  \n\uf0b7 Germination percentage"
+    },
+    {
+        "question":"Name the methods of achieving rotational grazing",
+        "context":"Name the methods of achieving rotational grazing\n\uf0b7 Paddocking  \n\uf0b7 Strip grazing  \n\uf0b7 Herding  \n\uf0b7 Tethering",
+        "answer":"\uf0b7 Paddocking  \n\uf0b7 Strip grazing  \n\uf0b7 Herding  \n\uf0b7 Tethering"
+    },
+    {
+        "question":"Describe three characteristics of the mango cultivar tommy Atkins",
+        "context":"Describe three characteristics of the mango cultivar tommy Atkins\n\uf0b7 The trees is large with dense rounded canopy \n\uf0b7 The fruits are medium to large, oval to oblong in shape \n\uf0b7 The flesh is yellow to deep yellow in colour  \n\uf0b7 The fruit skin is orange yellow with a heavy red blush",
+        "answer":"\uf0b7 The trees is large with dense rounded canopy \n\uf0b7 The fruits are medium to large, oval to oblong in shape \n\uf0b7 The flesh is yellow to deep yellow in colour  \n\uf0b7 The fruit skin is orange yellow with a heavy red blush"
+    },
+    {
+        "question":"Outline the nutritional importance of mangoes",
+        "context":"Outline the nutritional importance of mangoes\n\uf0b7 Source of Vitamins A and C \n \n \nCompiled by L.L Mpandason  \n22 \n\uf0b7 Source of minerals such as potassium  \n\uf0b7 Has anti-oxidants which prevents growth of cancerous cells  \n\uf0b7 Source of stomach soothing enzyme papain",
+        "answer":"\uf0b7 Source of Vitamins A and C \n \n \nCompiled by L.L Mpandason  \n22 \n\uf0b7 Source of minerals such as potassium  \n\uf0b7 Has anti-oxidants which prevents growth of cancerous cells  \n\uf0b7 Source of stomach soothing enzyme papain"
+    },
+    {
+        "question":"Describe the procedure for  transplanting mango seedlings",
+        "context":"Describe the procedure for  transplanting mango seedlings\n\uf0b7 Transplant when seedlings are 6 \u2013 8cm long \n\uf0b7 Water seedlings before transplanting  \n\uf0b7 Plant at the beginning of the rainy season \n\uf0b7 Take care when handling seedlings not to damage them  \n\uf0b7 Using a sharp knife, cut and remove the polythene sleeve \n\uf0b7 Prune back circular roots \n\uf0b7 Plant the seedling at the center of the hole \n\uf0b7 Plant to the lever existing nursery soil  \n\uf0b7 Press the soil firm around the root zone  \n\uf0b7 Place mulching material at the base of the seedlings  \n\uf0b7 Water after transplanting",
+        "answer":"\uf0b7 Transplant when seedlings are 6 \u2013 8cm long \n\uf0b7 Water seedlings before transplanting  \n\uf0b7 Plant at the beginning of the rainy season \n\uf0b7 Take care when handling seedlings not to damage them  \n\uf0b7 Using a sharp knife, cut and remove the polythene sleeve \n\uf0b7 Prune back circular roots \n\uf0b7 Plant the seedling at the center of the hole \n\uf0b7 Plant to the lever existing nursery soil  \n\uf0b7 Press the soil firm around the root zone  \n\uf0b7 Place mulching material at the base of the seedlings  \n\uf0b7 Water after transplanting"
+    },
+    {
+        "question":"a. Identify two signs of fruit fly attack in mangoes",
+        "context":"a. Identify two signs of fruit fly attack in mangoes\n\uf0b7 Present of small flies  \n\uf0b7 Small sport on the skin of fruits  \n\uf0b7 Rotting of fruits  \nb. Give three control measures of fruits fly  \n\uf0b7 Collect fallen fruits twice a week and destroy them  \n\uf0b7 Eradicate all non-economic host plants  \n\uf0b7 Remove fruits with dimples and those that ooze clear sap  \n\uf0b7 Use fruit traps to reduce their population  \n\uf0b7 Regular use of poison baits",
+        "answer":"\uf0b7 Present of small flies  \n\uf0b7 Small sport on the skin of fruits  \n\uf0b7 Rotting of fruits  \nb. Give three control measures of fruits fly  \n\uf0b7 Collect fallen fruits twice a week and destroy them  \n\uf0b7 Eradicate all non-economic host plants  \n\uf0b7 Remove fruits with dimples and those that ooze clear sap  \n\uf0b7 Use fruit traps to reduce their population  \n\uf0b7 Regular use of poison baits"
+    },
+    {
+        "question":"a. Outline two signs of a mango tree attacked by anthracnose disease",
+        "context":"a. Outline two signs of a mango tree attacked by anthracnose disease\n\uf0b7 Infected flowers wither and die before fruits form  \n\uf0b7 Spots grow into irregular patches on leaves  \n\uf0b7 Brown or black sunken spots develop on young fruits \nb. Describe two control measures of anthracnose disease in mango orchard  \n\uf0b7 use tolerant varieties  \n\uf0b7 remove dead branches, twigs and dead leaves and destroy them  \n\uf0b7 spray appropriate fungicides",
+        "answer":"\uf0b7 Infected flowers wither and die before fruits form  \n\uf0b7 Spots grow into irregular patches on leaves  \n\uf0b7 Brown or black sunken spots develop on young fruits \nb. Describe two control measures of anthracnose disease in mango orchard  \n\uf0b7 use tolerant varieties  \n\uf0b7 remove dead branches, twigs and dead leaves and destroy them  \n\uf0b7 spray appropriate fungicides"
+    },
+    {
+        "question":"State two disadvantages of dodo (maboloma) cultivars of mangoes",
+        "context":"State two disadvantages of dodo (maboloma) cultivars of mangoes\n\uf0b7 Fruits have high fibre content  \n \n \nCompiled by L.L Mpandason  \n23 \n\uf0b7 Susceptible to powdery mildew  \n\uf0b7 The tree is huge hence difficult to harvest",
+        "answer":"\uf0b7 Fruits have high fibre content  \n \n \nCompiled by L.L Mpandason  \n23 \n\uf0b7 Susceptible to powdery mildew  \n\uf0b7 The tree is huge hence difficult to harvest"
+    },
+    {
+        "question":"Describe two control measures of mango stone weevils",
+        "context":"Describe two control measures of mango stone weevils\n\uf0b7 Collect all fallen fruits and destroy them  \n\uf0b7 Spray regularly with bio- pesticides Bacillas thuringiensis \n\uf0b7 Spray long acting contact insecticides",
+        "answer":"\uf0b7 Collect all fallen fruits and destroy them  \n\uf0b7 Spray regularly with bio- pesticides Bacillas thuringiensis \n\uf0b7 Spray long acting contact insecticides"
+    },
+    {
+        "question":"Outline two weed control methods in mango orchard",
+        "context":"Outline two weed control methods in mango orchard\n\uf0b7 Mechanical methods especially by digging them up \n\uf0b7 Mulching  \n\uf0b7 Use of herbicides  \n\uf0b7 Intercropping",
+        "answer":"\uf0b7 Mechanical methods especially by digging them up \n\uf0b7 Mulching  \n\uf0b7 Use of herbicides  \n\uf0b7 Intercropping"
+    },
+    {
+        "question":"Identify the cause of anthracnose disease of mangoes",
+        "context":"Identify the cause of anthracnose disease of mangoes\n\uf0b7 Fungus ;Colletotrichum gloesporiodes",
+        "answer":"\uf0b7 Fungus ;Colletotrichum gloesporiodes"
+    },
+    {
+        "question":"Outline the signs of mango scales in a mango crop",
+        "context":"Outline the signs of mango scales in a mango crop\n\uf0b7 Presence of small immobile insects on leaves  \n\uf0b7 Leaves turn yellow \n\uf0b7 Leaves fall off prematurely  \n\uf0b7 Trees have poor growth \n\uf0b7 Die back of branches  \n\uf0b7 Fruits drop off",
+        "answer":"\uf0b7 Presence of small immobile insects on leaves  \n\uf0b7 Leaves turn yellow \n\uf0b7 Leaves fall off prematurely  \n\uf0b7 Trees have poor growth \n\uf0b7 Die back of branches  \n\uf0b7 Fruits drop off"
+    },
+    {
+        "question":"Give factors considered in selection of meat goats",
+        "context":"Give factors considered in selection of meat goats\n\uf0b7 Should be healthy \n\uf0b7 Should have high prolificacy  \n\uf0b7 Should be highly adaptable to prevailing weather conditions  \n\uf0b7 Should be fast growing  \n\uf0b7 Should have a compact, well fleshed body",
+        "answer":"\uf0b7 Should be healthy \n\uf0b7 Should have high prolificacy  \n\uf0b7 Should be highly adaptable to prevailing weather conditions  \n\uf0b7 Should be fast growing  \n\uf0b7 Should have a compact, well fleshed body"
+    },
+    {
+        "question":"Define inbreeding \u2018",
+        "context":"Define inbreeding \u2018\n\uf0b7 Inbreeding refers to mating between related animals",
+        "answer":"\uf0b7 Inbreeding refers to mating between related animals"
+    },
+    {
+        "question":"Give one disadvantage of inbreeding in livestock",
+        "context":"Give one disadvantage of inbreeding in livestock\n\uf0b7 Reduction of vitality  \n\uf0b7 Leads to loss of hybrid vigour \n\uf0b7 Leads to low fertility of offsprings  \n\uf0b7 Increase pre-natal mortality rate",
+        "answer":"\uf0b7 Reduction of vitality  \n\uf0b7 Leads to loss of hybrid vigour \n\uf0b7 Leads to low fertility of offsprings  \n\uf0b7 Increase pre-natal mortality rate"
+    },
+    {
+        "question":"Give one advantage of inbreeding in livestock",
+        "context":"Give one advantage of inbreeding in livestock\n\uf0b7 Promotes uniformity in herd \n\uf0b7 Used to test males for undesirable characteristics  \n\uf0b7 Concentrate desirable genes together  \n \n \nCompiled by L.L Mpandason  \n24 \n\uf0b7 It exposes undesirable characteristics so that they can be improved",
+        "answer":"\uf0b7 Promotes uniformity in herd \n\uf0b7 Used to test males for undesirable characteristics  \n\uf0b7 Concentrate desirable genes together  \n \n \nCompiled by L.L Mpandason  \n24 \n\uf0b7 It exposes undesirable characteristics so that they can be improved"
+    },
+    {
+        "question":"What is outbreeding",
+        "context":"What is outbreeding\n\uf0b7 This is involves mating totally unrelated animals but from the same breed",
+        "answer":"\uf0b7 This is involves mating totally unrelated animals but from the same breed"
+    },
+    {
+        "question":"State one advantage of outbreeding in livestock",
+        "context":"State one advantage of outbreeding in livestock\n\uf0b7 Increases hybrid vigour  \n\uf0b7 Introduces desirable characteristics that overshadow present",
+        "answer":"\uf0b7 Increases hybrid vigour  \n\uf0b7 Introduces desirable characteristics that overshadow present"
+    },
+    {
+        "question":"State one disadvantage of outbreeding in livestock",
+        "context":"State one disadvantage of outbreeding in livestock\n\uf0b7 Expensive to import semen by individual farmers",
+        "answer":"\uf0b7 Expensive to import semen by individual farmers"
+    },
+    {
+        "question":"List three breeds of cattle for",
+        "context":"List three breeds of cattle for\na. Dairy production  \n\uf0b7 Friesian  \n\uf0b7 Jersey  \n\uf0b7 Guernsey  \n\uf0b7 Aryshire  \nb. Beef production  \n\uf0b7 Hereford  \n\uf0b7 Boran  \n\uf0b7 Malawi Zebu \n\uf0b7 Chorolais  \n\uf0b7 Sussex",
+        "answer":"a. Dairy production  \n\uf0b7 Friesian  \n\uf0b7 Jersey  \n\uf0b7 Guernsey  \n\uf0b7 Aryshire  \nb. Beef production  \n\uf0b7 Hereford  \n\uf0b7 Boran  \n\uf0b7 Malawi Zebu \n\uf0b7 Chorolais  \n\uf0b7 Sussex"
+    },
+    {
+        "question":"Describe four observable characteristics of cattle breeds kept for",
+        "context":"Describe four observable characteristics of cattle breeds kept for\na. Dairy  \n\uf0b7 Body is less fleshy  \n\uf0b7 Wedged shaped \n\uf0b7 Large abdomen  \n\uf0b7 Well-developed udder \nb. Beef  \n\uf0b7 Well fleshed body  \n\uf0b7 Blocky shaped  \n\uf0b7 Small under  \n\uf0b7 Short thick neck",
+        "answer":"a. Dairy  \n\uf0b7 Body is less fleshy  \n\uf0b7 Wedged shaped \n\uf0b7 Large abdomen  \n\uf0b7 Well-developed udder \nb. Beef  \n\uf0b7 Well fleshed body  \n\uf0b7 Blocky shaped  \n\uf0b7 Small under  \n\uf0b7 Short thick neck"
+    },
+    {
+        "question":"Outline five management practices carried on beef and dairy cattle",
+        "context":"Outline five management practices carried on beef and dairy cattle\n\uf0b7 Proper feeding  \n\uf0b7 Proper housing  \n\uf0b7 Parasite control  \n\uf0b7 Disease control  \n\uf0b7 Selection  \nand breeding  \n \n \nCompiled by L.L Mpandason  \n25 \n\uf0b7 Hoof trimming",
+        "answer":"\uf0b7 Proper feeding  \n\uf0b7 Proper housing  \n\uf0b7 Parasite control  \n\uf0b7 Disease control  \n\uf0b7 Selection  \nand breeding  \n \n \nCompiled by L.L Mpandason  \n25 \n\uf0b7 Hoof trimming"
+    },
+    {
+        "question":"Name four common",
+        "context":"Name four common\na. Parasites of cattle  \n\uf0b7 Ticks  \n\uf0b7 Tsetse fly  \n\uf0b7 Tapeworms  \n\uf0b7 Live flukes  \n\uf0b7 Roundworms  \nb. Disease of cattle  \n\uf0b7 Mastitis  \n\uf0b7 Anthrax  \n\uf0b7 East Coast Fever (ECF) \n\uf0b7 Gall sickness  \n\uf0b7 Milk fever  \n\uf0b7 Black quarter  \n\uf0b7 Bloat",
+        "answer":"a. Parasites of cattle  \n\uf0b7 Ticks  \n\uf0b7 Tsetse fly  \n\uf0b7 Tapeworms  \n\uf0b7 Live flukes  \n\uf0b7 Roundworms  \nb. Disease of cattle  \n\uf0b7 Mastitis  \n\uf0b7 Anthrax  \n\uf0b7 East Coast Fever (ECF) \n\uf0b7 Gall sickness  \n\uf0b7 Milk fever  \n\uf0b7 Black quarter  \n\uf0b7 Bloat"
+    },
+    {
+        "question":"Outline four methods of controlling ticks in cattle",
+        "context":"Outline four methods of controlling ticks in cattle\n\uf0b7 Use of acaricides  \n\uf0b7 Practice rotational grazing  \n\uf0b7 Fencing of  livestock  \n\uf0b7 Hand picking  \n\uf0b7 Burning heavily infested pastured  \n\uf0b7 Ploughing heavily infested pasture",
+        "answer":"\uf0b7 Use of acaricides  \n\uf0b7 Practice rotational grazing  \n\uf0b7 Fencing of  livestock  \n\uf0b7 Hand picking  \n\uf0b7 Burning heavily infested pastured  \n\uf0b7 Ploughing heavily infested pasture"
+    },
+    {
+        "question":"Describe the suitable feeds for cattle",
+        "context":"Describe the suitable feeds for cattle\n\uf0b7 Roughages such as hay and silage  \n\uf0b7 Concentrates such as cotton seeds cake, groundnut seed cake and bran",
+        "answer":"\uf0b7 Roughages such as hay and silage  \n\uf0b7 Concentrates such as cotton seeds cake, groundnut seed cake and bran"
+    },
+    {
+        "question":"Describe signs of two viral disease",
+        "context":"Describe signs of two viral disease\na. Signs of rinderpest \n\uf0b7 Rapid rise in body temperature  \n\uf0b7 Dry and cracked muzzle  \nb. Signs of foot and mouth disease  \n\uf0b7 Great reduction in milk production  \n\uf0b7 Inflammation of tongue, lips and gums",
+        "answer":"a. Signs of rinderpest \n\uf0b7 Rapid rise in body temperature  \n\uf0b7 Dry and cracked muzzle  \nb. Signs of foot and mouth disease  \n\uf0b7 Great reduction in milk production  \n\uf0b7 Inflammation of tongue, lips and gums"
+    },
+    {
+        "question":"Explain the control for the viral diseases in 123 above",
+        "context":"Explain the control for the viral diseases in 123 above\na.  \n\uf0b7 Disinfect animal houses  \n\uf0b7 Vaccination of all animals that are more than one year old \n \n \nCompiled by L.L Mpandason  \n26 \n\uf0b7 Imposition of quarantine in case of outbreak  \nb.  \n\uf0b7 Vaccinate animals every six months  \n\uf0b7 Disinfect animal hooves  \n\uf0b7 Slaughter, burn and bury infected animal",
+        "answer":"a.  \n\uf0b7 Disinfect animal houses  \n\uf0b7 Vaccination of all animals that are more than one year old \n \n \nCompiled by L.L Mpandason  \n26 \n\uf0b7 Imposition of quarantine in case of outbreak  \nb.  \n\uf0b7 Vaccinate animals every six months  \n\uf0b7 Disinfect animal hooves  \n\uf0b7 Slaughter, burn and bury infected animal"
+    },
+    {
+        "question":"List four distinguishing characteristics of a jersey breed of cattle",
+        "context":"List four distinguishing characteristics of a jersey breed of cattle\n\uf0b7 Have sharp withers  \n\uf0b7 The colour of milk is yellow  \n\uf0b7 They are resistant to high temperatures  \n\uf0b7 Bulls are aggressive",
+        "answer":"\uf0b7 Have sharp withers  \n\uf0b7 The colour of milk is yellow  \n\uf0b7 They are resistant to high temperatures  \n\uf0b7 Bulls are aggressive"
+    },
+    {
+        "question":"a. Outline the pre-disposing factors of mastitis",
+        "context":"a. Outline the pre-disposing factors of mastitis\n\uf0b7 Poor hygiene  \n\uf0b7 Overstocking  \nb. What measures should a farmer carry out to control mastitis in his dairy herd  \n\uf0b7 Vaccinate animals once a year \n\uf0b7 Cull animals which do not respond to treatment  \n\uf0b7 Apply milking jelly on teats to prevent cracking and drying",
+        "answer":"\uf0b7 Poor hygiene  \n\uf0b7 Overstocking  \nb. What measures should a farmer carry out to control mastitis in his dairy herd  \n\uf0b7 Vaccinate animals once a year \n\uf0b7 Cull animals which do not respond to treatment  \n\uf0b7 Apply milking jelly on teats to prevent cracking and drying"
+    },
+    {
+        "question":"What is the function of the following parts in cattle reproduction",
+        "context":"What is the function of the following parts in cattle reproduction\na. Scrotum  \n\uf0b7 Protects the testes from mechanical injury  \n\uf0b7 Holds the testes in position \n\uf0b7 Regulates the temperature of the testes  \nb. Prostate gland  \n\uf0b7 Prostate gland produces a saline- glucose rich fluid that activates the spermatozoa",
+        "answer":"a. Scrotum  \n\uf0b7 Protects the testes from mechanical injury  \n\uf0b7 Holds the testes in position \n\uf0b7 Regulates the temperature of the testes  \nb. Prostate gland  \n\uf0b7 Prostate gland produces a saline- glucose rich fluid that activates the spermatozoa"
+    },
+    {
+        "question":"a. What does the term oestrus cycle mean",
+        "context":"a. What does the term oestrus cycle mean\n\uf0b7 Oestrous cycle is the period in the sexual cycle of female mammals during which \nthey are on heat, ready to accept a male  \nb. If a dairy cow is noticed to be showing signs of heat at 6 a.m., what time should it be \ninseminated  \n\uf0b7 Should be served 12 hours late. That is 6pm in the evening",
+        "answer":"\uf0b7 Oestrous cycle is the period in the sexual cycle of female mammals during which \nthey are on heat, ready to accept a male  \nb. If a dairy cow is noticed to be showing signs of heat at 6 a.m., what time should it be \ninseminated  \n\uf0b7 Should be served 12 hours late. That is 6pm in the evening"
+    },
+    {
+        "question":"Outline the phases of oestrous cycle in cattle and in goat",
+        "context":"Outline the phases of oestrous cycle in cattle and in goat\nOccurs in four phases  \n\uf0b7 Proestrous  \n\uf0b7 Oestrous  \n\uf0b7 Metoestrous  \n\uf0b7 Diostrous  \n \n \nCompiled by L.L Mpandason  \n27",
+        "answer":"Occurs in four phases  \n\uf0b7 Proestrous  \n\uf0b7 Oestrous  \n\uf0b7 Metoestrous  \n\uf0b7 Diostrous  \n \n \nCompiled by L.L Mpandason  \n27"
+    },
+    {
+        "question":"Give two Give the signs of heat",
+        "context":"Give two Give the signs of heat\n\uf0b7 Restlessness  \n\uf0b7 Mounting others and when mounted, stands still \n\uf0b7 Loss of appetite  \n\uf0b7 Constant vocalizations \n\uf0b7 Seeks out for bucks  \n\uf0b7 Reddening and swelling of the vulva \n\uf0b7 Discharges a thin clear mucus from the vulva",
+        "answer":"\uf0b7 Restlessness  \n\uf0b7 Mounting others and when mounted, stands still \n\uf0b7 Loss of appetite  \n\uf0b7 Constant vocalizations \n\uf0b7 Seeks out for bucks  \n\uf0b7 Reddening and swelling of the vulva \n\uf0b7 Discharges a thin clear mucus from the vulva"
+    },
+    {
+        "question":"Give two functions of the testes in a bull",
+        "context":"Give two functions of the testes in a bull\n\uf0b7 Secretes male sex hormones  \n\uf0b7 They produce sperms",
+        "answer":"\uf0b7 Secretes male sex hormones  \n\uf0b7 They produce sperms"
+    },
+    {
+        "question":"Name the part of the hen\u2019s reproductive system where",
+        "context":"Name the part of the hen\u2019s reproductive system where\na. Fertilization takes place  \n\uf0b7 Infundibulum or funnel of oviduct \nb. The shell is added to the egg  \n\uf0b7 Shell gland or uterus",
+        "answer":"a. Fertilization takes place  \n\uf0b7 Infundibulum or funnel of oviduct \nb. The shell is added to the egg  \n\uf0b7 Shell gland or uterus"
+    },
+    {
+        "question":"Describe four signs of parturition in a cow",
+        "context":"Describe four signs of parturition in a cow\n\uf0b7 Restlessness  \n\uf0b7 Loss of appetite  \n\uf0b7 Discharged of a clear slimy mucus from the vulva \n\uf0b7 Swelling and reddening of the vulva \n\uf0b7 Cow isolates herself from the other  \n\uf0b7 Relaxation of the ligaments and muscles on either side of the pelvic bones \n\uf0b7 Enlargement of the udder and feels firm to the torch",
+        "answer":"\uf0b7 Restlessness  \n\uf0b7 Loss of appetite  \n\uf0b7 Discharged of a clear slimy mucus from the vulva \n\uf0b7 Swelling and reddening of the vulva \n\uf0b7 Cow isolates herself from the other  \n\uf0b7 Relaxation of the ligaments and muscles on either side of the pelvic bones \n\uf0b7 Enlargement of the udder and feels firm to the torch"
+    },
+    {
+        "question":"What is the gestation period of a cow",
+        "context":"What is the gestation period of a cow\n\uf0b7 275 \u2013 285 days",
+        "answer":"\uf0b7 275 \u2013 285 days"
+    },
+    {
+        "question":"Outline four factors that influence the onset of puberty in cattle",
+        "context":"Outline four factors that influence the onset of puberty in cattle\n\uf0b7 Origin exotic breeds reach puberty earlier than indigenous  \n\uf0b7 Exposure to the opposite sex stimulates onset of puberty  \n\uf0b7 Warm temperature stimulates the onset of puberty but extreme temperature either \nhot or cold delays the onset  \n\uf0b7 Well-fed animals reach puberty earlier than pure breeds due to heterosis (hybrid \nvigour)",
+        "answer":"\uf0b7 Origin exotic breeds reach puberty earlier than indigenous  \n\uf0b7 Exposure to the opposite sex stimulates onset of puberty  \n\uf0b7 Warm temperature stimulates the onset of puberty but extreme temperature either \nhot or cold delays the onset  \n\uf0b7 Well-fed animals reach puberty earlier than pure breeds due to heterosis (hybrid \nvigour)"
+    },
+    {
+        "question":"Give the role of each of the following in cattle",
+        "context":"Give the role of each of the following in cattle\na. Sigmoid flexure in a bull \n\uf0b7 Enables the penis to retract after mating  \nb. Ovary \n \n \nCompiled by L.L Mpandason  \n28 \n\uf0b7 Secretes female sex hormones",
+        "answer":"a. Sigmoid flexure in a bull \n\uf0b7 Enables the penis to retract after mating  \nb. Ovary \n \n \nCompiled by L.L Mpandason  \n28 \n\uf0b7 Secretes female sex hormones"
+    },
+    {
+        "question":"Define the term selection",
+        "context":"Define the term selection\n\uf0b7 Selection is the practice of choosing male and female animals to become the parent \nof the future generation",
+        "answer":"\uf0b7 Selection is the practice of choosing male and female animals to become the parent \nof the future generation"
+    },
+    {
+        "question":"How would you select a good dairy cow using physical appearance",
+        "context":"How would you select a good dairy cow using physical appearance\n\uf0b7 Wedge shaped  \n\uf0b7 Less fleshy or have a lean body  \n\uf0b7 Large hindquarters  \n\uf0b7 Long lean neck  \n\uf0b7 Large well developed udder  \n\uf0b7 Prominent milk veins  \n\uf0b7 Well placed four teats  \n\uf0b7 Large barrel",
+        "answer":"\uf0b7 Wedge shaped  \n\uf0b7 Less fleshy or have a lean body  \n\uf0b7 Large hindquarters  \n\uf0b7 Long lean neck  \n\uf0b7 Large well developed udder  \n\uf0b7 Prominent milk veins  \n\uf0b7 Well placed four teats  \n\uf0b7 Large barrel"
+    },
+    {
+        "question":"Give three main importances of livestock improvement",
+        "context":"Give three main importances of livestock improvement\n\uf0b7 To increase production potential of the animal \n\uf0b7 To obtain high quality produce  \n\uf0b7 To increase disease resistance in the animals  \n\uf0b7 To increase heat tolerance",
+        "answer":"\uf0b7 To increase production potential of the animal \n\uf0b7 To obtain high quality produce  \n\uf0b7 To increase disease resistance in the animals  \n\uf0b7 To increase heat tolerance"
+    },
+    {
+        "question":"a. State two factors that indicate the fertility level of sow",
+        "context":"a. State two factors that indicate the fertility level of sow\n\uf0b7 Number of teats  \n\uf0b7 Prolificacy, that is number of offspring it gives rise to at one farrowing  \nb. Outline five other characteristics of a sow suitable for selection for breeding purposes  \n\uf0b7 Should have a high growth rate  \n\uf0b7 Should be able to produce adequate milk for her litter  \n\uf0b7 Should be free from diseases and any other deformity  \n\uf0b7 Should slow mild temperament  \n\uf0b7 Should have high carcass quality  \n\uf0b7 Should be an early mature",
+        "answer":"\uf0b7 Number of teats  \n\uf0b7 Prolificacy, that is number of offspring it gives rise to at one farrowing  \nb. Outline five other characteristics of a sow suitable for selection for breeding purposes  \n\uf0b7 Should have a high growth rate  \n\uf0b7 Should be able to produce adequate milk for her litter  \n\uf0b7 Should be free from diseases and any other deformity  \n\uf0b7 Should slow mild temperament  \n\uf0b7 Should have high carcass quality  \n\uf0b7 Should be an early mature"
+    },
+    {
+        "question":"Describe the conformation of beef cattle",
+        "context":"Describe the conformation of beef cattle\n\uf0b7 Should have a rectangular or blocky or cylindrical shape  \n\uf0b7 The  body is well set and compact and with large hindquarters  \n\uf0b7 They have a deep body  \n\uf0b7 They should be well fleshed with no protruding bones  \n\uf0b7 The legs should be short and strong so as to support the large body  \n\uf0b7 They should have a wide brisket that protrudes forward. \n \n \n \nCompiled by L.L Mpandason  \n29 \nSAMPLE EXAMINATION PAPER \n \nPAPER 1 \nSection A (50 marks) \n\uf0b7 This paper has two sections A and B section A has ten questions and section B and four \nquestions",
+        "answer":"\uf0b7 Should have a rectangular or blocky or cylindrical shape  \n\uf0b7 The  body is well set and compact and with large hindquarters  \n\uf0b7 They have a deep body  \n\uf0b7 They should be well fleshed with no protruding bones  \n\uf0b7 The legs should be short and strong so as to support the large body  \n\uf0b7 They should have a wide brisket that protrudes forward. \n \n \n \nCompiled by L.L Mpandason  \n29 \nSAMPLE EXAMINATION PAPER \n \nPAPER 1 \nSection A (50 marks) \n\uf0b7 This paper has two sections A and B section A has ten questions and section B and four \nquestions"
+    },
+    {
+        "question":"a. State any two four possible causes of soil degradation",
+        "context":"a. State any two four possible causes of soil degradation\n\uf0a7 soil erosion  \n\uf0a7 salinization  \n\uf0a7 soil acidification  \n\uf0a7 leaching  \n\uf0a7 compaction of soil  \nb. Explain any four effects of soil degradation on crop production  \n\uf0a7 Soil erosion carries away the top soil which is rich in plant nutrients and the \nbeneficial soil microorganisms  \n\uf0a7 Soil erosion leaves the land crusty and less useful for crop production. Most \nfarmers abandon such land \n\uf0a7 Flooding water may carry weed seeds from one farm to another. Weeds reduce the \ncop yield by competing with crops for nutrients  \n\uf0a7 Soil degradation contributes towards siltation of water resources reducing their \ncapacity for agricultural activities such as irrigation",
+        "answer":"\uf0a7 soil erosion  \n\uf0a7 salinization  \n\uf0a7 soil acidification  \n\uf0a7 leaching  \n\uf0a7 compaction of soil  \nb. Explain any four effects of soil degradation on crop production  \n\uf0a7 Soil erosion carries away the top soil which is rich in plant nutrients and the \nbeneficial soil microorganisms  \n\uf0a7 Soil erosion leaves the land crusty and less useful for crop production. Most \nfarmers abandon such land \n\uf0a7 Flooding water may carry weed seeds from one farm to another. Weeds reduce the \ncop yield by competing with crops for nutrients  \n\uf0a7 Soil degradation contributes towards siltation of water resources reducing their \ncapacity for agricultural activities such as irrigation"
+    },
+    {
+        "question":"a. Outline four methods of dealing with effect of climate change",
+        "context":"a. Outline four methods of dealing with effect of climate change\n\uf0a7 Practicing conservation agriculture  \n\uf0a7 Practicing water harvesting  \n\uf0a7 Practicing agroforestry  \n\uf0a7 Practicing integrated forest, crops, livestock and fishing farming  \nb. Describe two benefits of trees planted on the farm  \n\uf0a7 Trees are source of fodder for livestock \n\uf0a7 Trees provide timer for construction",
+        "answer":"\uf0a7 Practicing conservation agriculture  \n\uf0a7 Practicing water harvesting  \n\uf0a7 Practicing agroforestry  \n\uf0a7 Practicing integrated forest, crops, livestock and fishing farming  \nb. Describe two benefits of trees planted on the farm  \n\uf0a7 Trees are source of fodder for livestock \n\uf0a7 Trees provide timer for construction"
+    },
+    {
+        "question":"a. Define land drainage",
+        "context":"a. Define land drainage\n\uf0a7 Land drainage is the practice of removing excess water from the soil to make it \nsuitable for crop production \nb. Identify three methods of land drainage  \n\uf0a7 Surface drainage  \n\uf0a7 Subsurface drainage  \n\uf0a7 Biodrainage",
+        "answer":"\uf0a7 Land drainage is the practice of removing excess water from the soil to make it \nsuitable for crop production \nb. Identify three methods of land drainage  \n\uf0a7 Surface drainage  \n\uf0a7 Subsurface drainage  \n\uf0a7 Biodrainage"
+    },
+    {
+        "question":"a. Describe three advantages of farm mechanization",
+        "context":"a. Describe three advantages of farm mechanization\n\uf0a7 There is improved production efficiency by reducing cost per unit of production  \n\uf0a7 It substitutes expensive farm labour  \n \n \nCompiled by L.L Mpandason  \n30 \n\uf0a7 Crop quality is increased especially during harvesting and processing \nb. Describe three factors to consider when mechanizing farm \n\uf0a7 Availability of capital. High initial costs are required to mechanise a farm, this may \nbe too expensive for some farmers  \n\uf0a7 Topography. Meachinisation can easily be applied on fairly gentle slopes to \nrelatively flat land. It may be impossible to operate on steep slope \n\uf0a7 Size of land. Mechanization can easily be carried out on large tracts of land. It is \nuneconomical to mechanise the farm operations",
+        "answer":"\uf0a7 There is improved production efficiency by reducing cost per unit of production  \n\uf0a7 It substitutes expensive farm labour  \n \n \nCompiled by L.L Mpandason  \n30 \n\uf0a7 Crop quality is increased especially during harvesting and processing \nb. Describe three factors to consider when mechanizing farm \n\uf0a7 Availability of capital. High initial costs are required to mechanise a farm, this may \nbe too expensive for some farmers  \n\uf0a7 Topography. Meachinisation can easily be applied on fairly gentle slopes to \nrelatively flat land. It may be impossible to operate on steep slope \n\uf0a7 Size of land. Mechanization can easily be carried out on large tracts of land. It is \nuneconomical to mechanise the farm operations"
+    },
+    {
+        "question":"a. Name four breeds of dairy cattle reared in Malawi",
+        "context":"a. Name four breeds of dairy cattle reared in Malawi\n\uf0a7 Fresian  \n\uf0a7 Guernsey  \n\uf0a7 Jersey  \n\uf0a7 Ayrshire  \nb. Outline four characteristics of a suitable house for cattle  \n\uf0a7 It should be easy to clean to prevent accumulation of dust \n\uf0a7 It should be well ventilated to prevent spread of infection \n\uf0a7 It should be well drained \n\uf0a7 It should be spacious",
+        "answer":"\uf0a7 Fresian  \n\uf0a7 Guernsey  \n\uf0a7 Jersey  \n\uf0a7 Ayrshire  \nb. Outline four characteristics of a suitable house for cattle  \n\uf0a7 It should be easy to clean to prevent accumulation of dust \n\uf0a7 It should be well ventilated to prevent spread of infection \n\uf0a7 It should be well drained \n\uf0a7 It should be spacious"
+    },
+    {
+        "question":"a. Name four mango varieties common in Malawi",
+        "context":"a. Name four mango varieties common in Malawi\n\uf0a7 Dodo  \n\uf0a7 Tommy Atkins  \n\uf0a7 Keitt  \n\uf0a7 Sensation  \nb. List pest and diseases of mangoes  \nPests of mango include: \n\uf0a7 Fruit flies \n\uf0a7 Mango scales  \n\uf0a7 Mango stone weevils  \nDiseases of mangoes include: \n\uf0a7 Mango anthracnose  \n\uf0a7 Powdery mildew",
+        "answer":"\uf0a7 Dodo  \n\uf0a7 Tommy Atkins  \n\uf0a7 Keitt  \n\uf0a7 Sensation  \nb. List pest and diseases of mangoes  \nPests of mango include: \n\uf0a7 Fruit flies \n\uf0a7 Mango scales  \n\uf0a7 Mango stone weevils  \nDiseases of mangoes include: \n\uf0a7 Mango anthracnose  \n\uf0a7 Powdery mildew"
+    },
+    {
+        "question":"a. Differentiate between elastic and inelastic demand of commodity",
+        "context":"a. Differentiate between elastic and inelastic demand of commodity\n\uf0a7 Elastic demand is a condition in marketing whereby a small (slight) change in price \nof a commodity gives rise to a big change in the quantity of the commodity \ndemanded \n\uf0a7 Inelastic  demand is a condition in marketing whereby a big change in price of \ncommodity gives rise to a small change in the quantity of commodity demanded \nb. Which type of demand from question 7 (a) above applies to most agriculture goods \n\uf0a7 Inelastic demand of most agricultural goods  \nc. Give a reason for your answer in question 7(b) above \n \n \nCompiled by L.L Mpandason  \n31 \n\uf0a7 There is usually a limit as to how much one can consume and store agricultural \ncommodities. Some go bad very quickly and hence one demands just enough and \nnot beyond what one can consume or keep leading to inelastic demand",
+        "answer":"\uf0a7 Elastic demand is a condition in marketing whereby a small (slight) change in price \nof a commodity gives rise to a big change in the quantity of the commodity \ndemanded \n\uf0a7 Inelastic  demand is a condition in marketing whereby a big change in price of \ncommodity gives rise to a small change in the quantity of commodity demanded \nb. Which type of demand from question 7 (a) above applies to most agriculture goods \n\uf0a7 Inelastic demand of most agricultural goods  \nc. Give a reason for your answer in question 7(b) above \n \n \nCompiled by L.L Mpandason  \n31 \n\uf0a7 There is usually a limit as to how much one can consume and store agricultural \ncommodities. Some go bad very quickly and hence one demands just enough and \nnot beyond what one can consume or keep leading to inelastic demand"
+    },
+    {
+        "question":"a. What is conservation agriculture",
+        "context":"a. What is conservation agriculture\n\uf0a7 Conservation agriculture is an approach in farming that strives to attain high and \nsustained crop production levels while at the same time minimizing the disruption \nof the soil structures, composition and natural biodiversity  \nb. State three key principles of conservation agriculture  \n\uf0a7 Minimum soil disturbance. Carry out tillage that is required to have an effective \ncrop stand  \n\uf0a7 Crop rotation. Introduce legumes to increase the amount of nitrogen in the soil and \nrotate crops to break pests and disease cycle \n\uf0a7 Soil organic cover. Leave some crop residue to cover the soil to reduce the amount \nof moisture loss",
+        "answer":"\uf0a7 Conservation agriculture is an approach in farming that strives to attain high and \nsustained crop production levels while at the same time minimizing the disruption \nof the soil structures, composition and natural biodiversity  \nb. State three key principles of conservation agriculture  \n\uf0a7 Minimum soil disturbance. Carry out tillage that is required to have an effective \ncrop stand  \n\uf0a7 Crop rotation. Introduce legumes to increase the amount of nitrogen in the soil and \nrotate crops to break pests and disease cycle \n\uf0a7 Soil organic cover. Leave some crop residue to cover the soil to reduce the amount \nof moisture loss"
+    },
+    {
+        "question":"a. Outline three sings of trypanosomiasis disease in cattle",
+        "context":"a. Outline three sings of trypanosomiasis disease in cattle\n\uf0a7 Animal is exhausted and very weak  \n\uf0a7 Loss of hair at tail switch  \n\uf0a7 The animal loses appetite \nb. Explain three effects of parasites in cattle \n\uf0a7 Anaemia  due to sucking of blood by parasites such as ticks \n\uf0a7 Death of host under heavy infestation  \n\uf0a7 Some parasites spread disease such as trypanosomiasis",
+        "answer":"\uf0a7 Animal is exhausted and very weak  \n\uf0a7 Loss of hair at tail switch  \n\uf0a7 The animal loses appetite \nb. Explain three effects of parasites in cattle \n\uf0a7 Anaemia  due to sucking of blood by parasites such as ticks \n\uf0a7 Death of host under heavy infestation  \n\uf0a7 Some parasites spread disease such as trypanosomiasis"
+    },
+    {
+        "question":"Describe the signs of parturition in cows",
+        "context":"Describe the signs of parturition in cows\n\uf0a7 Loss of appetite  \n\uf0a7 Slimy mucous discharge from the vulva \n\uf0a7 The cow isolates itself from the rest of the herd  \n\uf0a7 The vulva swells and become red  \n\uf0a7 Enlargement of the udder \n\uf0a7 Colostrum may drop out of the teats in high lactating cows \n \nSECTION B (50 MARKS) \n\uf0b7 Answer all the four questions in this section. Your answer should be in essay form",
+        "answer":"\uf0a7 Loss of appetite  \n\uf0a7 Slimy mucous discharge from the vulva \n\uf0a7 The cow isolates itself from the rest of the herd  \n\uf0a7 The vulva swells and become red  \n\uf0a7 Enlargement of the udder \n\uf0a7 Colostrum may drop out of the teats in high lactating cows \n \nSECTION B (50 MARKS) \n\uf0b7 Answer all the four questions in this section. Your answer should be in essay form"
+    },
+    {
+        "question":"Describe two livestock breeding systems",
+        "context":"Describe two livestock breeding systems\n\uf0a7  \nInbreeding is the mating of individuals who are closely related. The level of \ninbreeding depends on the closeness of the relationship between the parents. This \nsystem should be used by breeders and not ordinary or inexperienced farmers due \nto the undesirable characteristics which arise in the inbred off springs  \n \nExample of inbreeding cases include; a mother and a son, a brother and a sister, \nhalf-brother and half-sister and father and daughter. Inbreeding is advantageous \nbecause it promotes uniformity in a population. Inbreeding is also useful in testing \n \n \nCompiled by L.L Mpandason  \n32 \nmale animals for abnormalities, that is, testing whether they are carries of \nhereditary defects. Inbreeding is disadvantageous since there is reduced \nperformance in the animal and reduced vitality. It leads to weak    inferior animals \nby concentrating too many recessive gene pairs in the progeny. \n \nCross-breeding is the mating of the two animals belonging to different breeds. \nExamples include Fresian bull and Malawi Zebu. Cross-breeding is advantageous \nsince the offspring exhibits hybrid vigour, therefore, it can adapt well to harsh \nenvironments. The disadvantage of cross-breeding is that it is expensive for most \nfarmers to obtain semen from pure breeds.",
+        "answer":"\uf0a7  \nInbreeding is the mating of individuals who are closely related. The level of \ninbreeding depends on the closeness of the relationship between the parents. This \nsystem should be used by breeders and not ordinary or inexperienced farmers due \nto the undesirable characteristics which arise in the inbred off springs  \n \nExample of inbreeding cases include; a mother and a son, a brother and a sister, \nhalf-brother and half-sister and father and daughter. Inbreeding is advantageous \nbecause it promotes uniformity in a population. Inbreeding is also useful in testing \n \n \nCompiled by L.L Mpandason  \n32 \nmale animals for abnormalities, that is, testing whether they are carries of \nhereditary defects. Inbreeding is disadvantageous since there is reduced \nperformance in the animal and reduced vitality. It leads to weak    inferior animals \nby concentrating too many recessive gene pairs in the progeny. \n \nCross-breeding is the mating of the two animals belonging to different breeds. \nExamples include Fresian bull and Malawi Zebu. Cross-breeding is advantageous \nsince the offspring exhibits hybrid vigour, therefore, it can adapt well to harsh \nenvironments. The disadvantage of cross-breeding is that it is expensive for most \nfarmers to obtain semen from pure breeds."
+    },
+    {
+        "question":"Describe the different types of harvesting machines, their maintenance and safety measures to",
+        "context":"Describe the different types of harvesting machines, their maintenance and safety measures to\nconsider while using it \n \n\uf0a7 Harvesting machines are used to harvest crops such as maize and wheat. Such \nmachines include combine harvesters, maize shellers, potato lifters and forage \nharvesters. Combine harvesters are used for cutting the crop and ramming the \ngrains, threshing grains, cleaning or winnowing the grains and packing the grains. \nMaize shellers are used to remove grains from maize cobs. Potato lifters are used \nin harvesting crops such as Irish potatoes and sweet potatoes. Forage harvesters \nharvest forage crops such as maize, sorghum and Napier grass. \n \nHarvesting machines can be maintained by tightening loose nuts and bolts, \nlubricating moving parts, sharpening cutting edges and applying oil for long \nstorage. While using harvesting machines, the farmer should not wear loose \nclothing such as neckties. All cutting blades should be sharp and in proper working \ncondition.",
+        "answer":"consider while using it \n \n\uf0a7 Harvesting machines are used to harvest crops such as maize and wheat. Such \nmachines include combine harvesters, maize shellers, potato lifters and forage \nharvesters. Combine harvesters are used for cutting the crop and ramming the \ngrains, threshing grains, cleaning or winnowing the grains and packing the grains. \nMaize shellers are used to remove grains from maize cobs. Potato lifters are used \nin harvesting crops such as Irish potatoes and sweet potatoes. Forage harvesters \nharvest forage crops such as maize, sorghum and Napier grass. \n \nHarvesting machines can be maintained by tightening loose nuts and bolts, \nlubricating moving parts, sharpening cutting edges and applying oil for long \nstorage. While using harvesting machines, the farmer should not wear loose \nclothing such as neckties. All cutting blades should be sharp and in proper working \ncondition."
+    },
+    {
+        "question":"Explain the processes of reproduction in cattle",
+        "context":"Explain the processes of reproduction in cattle\n\uf0a7  \nReproductive in cattle involves the following processes; mating, fertilization, \nembryo development, foetus development and parturition. Mating can be natural or \ndone through artificial insemination. In natural mating, a bull directly mounts a \nfemale on heat and introduces semen into the reproductive tract of the cow. In \nartificial insemination, semen collected from a superior male is introduced into the \nfemale reproductive tract by use of pistolette or syringe \n \nFertilization is a process through which the nucleus of a male gamete fuses with \nthe nucleus of a female gamete to form a zygote. Fertilization occurs in the upper \npart of the oviduct. The zygote moves down the oviduct to the uterus, as it moves, \nit undergoes several cell divisions to form a hollow mass of cell called embryo. \n \nDuring embryo development, the embryo develops finger-like projections called \nvilli with which it attaches itself on the wall of the uterus in a process called \nimplantation. Villi together with the wall of uterus develop into special organ \n \n \nCompiled by L.L Mpandason  \n33 \nknown as the placenta which forms the sites of material exchange between the \nembryo and maternal blood vessel in the uterine wall. \n \nParturition is the process of giving birth. It is also referred to as calving in cattle. \nGestation period in cattle last between 275 \u2013 285 days. A cow will show different \nsigns of parturition such as restlessness, loss of appetite, isolation among others",
+        "answer":"\uf0a7  \nReproductive in cattle involves the following processes; mating, fertilization, \nembryo development, foetus development and parturition. Mating can be natural or \ndone through artificial insemination. In natural mating, a bull directly mounts a \nfemale on heat and introduces semen into the reproductive tract of the cow. In \nartificial insemination, semen collected from a superior male is introduced into the \nfemale reproductive tract by use of pistolette or syringe \n \nFertilization is a process through which the nucleus of a male gamete fuses with \nthe nucleus of a female gamete to form a zygote. Fertilization occurs in the upper \npart of the oviduct. The zygote moves down the oviduct to the uterus, as it moves, \nit undergoes several cell divisions to form a hollow mass of cell called embryo. \n \nDuring embryo development, the embryo develops finger-like projections called \nvilli with which it attaches itself on the wall of the uterus in a process called \nimplantation. Villi together with the wall of uterus develop into special organ \n \n \nCompiled by L.L Mpandason  \n33 \nknown as the placenta which forms the sites of material exchange between the \nembryo and maternal blood vessel in the uterine wall. \n \nParturition is the process of giving birth. It is also referred to as calving in cattle. \nGestation period in cattle last between 275 \u2013 285 days. A cow will show different \nsigns of parturition such as restlessness, loss of appetite, isolation among others"
+    },
+    {
+        "question":"Describe the methods of livestock improvement",
+        "context":"Describe the methods of livestock improvement\n\uf0a7  \nLivestock improvement is the science of changing the genetic constitution of \nanimals to obtain desirable characteristics. They are two main methods of livestock \nimprovement; breeding and introduction of exotic breeds \n \nBreeding is the process of mating selected animals for the purpose of producing \nanimals with desired traits. The quality of an animal depends on the genetic \ncharacteristics inherited from the parent stock. The farmer must therefore be \nconcerned with the parent stock from which the young are to be produced. \n \nIntroduction of exotic breeds refers to the process of importing exotic, pure bred \nanimals with superior qualities from another country. Exotic breeds can be \nintroduced by importing superior semen, importing bulls or importing embryos. \nMales imported or semen harvested can be used to mate the local female animals",
+        "answer":"\uf0a7  \nLivestock improvement is the science of changing the genetic constitution of \nanimals to obtain desirable characteristics. They are two main methods of livestock \nimprovement; breeding and introduction of exotic breeds \n \nBreeding is the process of mating selected animals for the purpose of producing \nanimals with desired traits. The quality of an animal depends on the genetic \ncharacteristics inherited from the parent stock. The farmer must therefore be \nconcerned with the parent stock from which the young are to be produced. \n \nIntroduction of exotic breeds refers to the process of importing exotic, pure bred \nanimals with superior qualities from another country. Exotic breeds can be \nintroduced by importing superior semen, importing bulls or importing embryos. \nMales imported or semen harvested can be used to mate the local female animals"
+    },
+    {
+        "question":"Explain five factors that affect the quality of hay.",
+        "context":"Explain five factors that affect the quality of hay.\n\uf0a7  \nHay refers to forage crops which have been cut and dried to about 15 \u2013 20% moisture \ncontent so that they can safely be stored without undergoing fermentation and \nbecoming mouldy and there are several factors that can affect the quality of hay.  \n \nPastures species used. This is the first factor that can affect the quality of hay. \nLegumes usually have high crude protein content hence are of higher quality than \ngrasses \n \nAge of pasture at cutting. Forage has maximum nutrients if harvested when 50% of \nthe plants have flowered. Delay in harvesting leads to a lower nutrient content since \nthe nutrients would have been used in seed setting.  \n \nMoisture content. Hay should be dried to the appropriate moisture content to prevent \nfermentation which will lower its qualify \n \nLeafiness of pastures. The higher the leaf; stem ratio, the higher the quality.  \n \nMethod of storage. The mode of storage should protect the hay from rain water which \nmay result into formation of moulds",
+        "answer":"\uf0a7  \nHay refers to forage crops which have been cut and dried to about 15 \u2013 20% moisture \ncontent so that they can safely be stored without undergoing fermentation and \nbecoming mouldy and there are several factors that can affect the quality of hay.  \n \nPastures species used. This is the first factor that can affect the quality of hay. \nLegumes usually have high crude protein content hence are of higher quality than \ngrasses \n \nAge of pasture at cutting. Forage has maximum nutrients if harvested when 50% of \nthe plants have flowered. Delay in harvesting leads to a lower nutrient content since \nthe nutrients would have been used in seed setting.  \n \nMoisture content. Hay should be dried to the appropriate moisture content to prevent \nfermentation which will lower its qualify \n \nLeafiness of pastures. The higher the leaf; stem ratio, the higher the quality.  \n \nMethod of storage. The mode of storage should protect the hay from rain water which \nmay result into formation of moulds"
+    }
+]

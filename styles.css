@@ -1,0 +1,57 @@
+/* --- Global Poppins Font and Color Variables --- */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+:root {
+    --primary-green: #2ecc71;
+    --dark-green: #177017;
+    --sidebar-bg: #0b490b; 
+    --light-green-bg: #e0fae0;
+    --chat-user-bg: #f0fff0;
+}
+
+html, body, [class*="st-"] {
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Global Background */
+.stApp { background-color: white; }
+
+/* Sidebar Styling */
+.st-emotion-cache-1v41k66 { background-color: var(--sidebar-bg); }
+.st-emotion-cache-10o5u3h * { color: white !important; } 
+
+/* Main App Text Color */
+h1, h2, h3, h4 { color: var(--dark-green) !important; } 
+
+/* Button Styling (Rounded Green) */
+.stButton>button {
+    background-color: var(--primary-green);
+    color: white;
+    border-radius: 12px; 
+    border: none;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.stButton>button:hover { background-color: #27ae60; }
+
+/* Chat Styling */
+[data-testid="stChatMessage"] p { color: black !important; }
+.st-chat-message-user { background-color: var(--chat-user-bg); }
+.st-chat-message-assistant { 
+    background-color: var(--light-green-bg); 
+    border-left: 5px solid var(--dark-green); 
+}
+
+/* --- ULTIMATE FIX: FORCE HIDE THE BUGGY DEFAULT STREAMLIT HEADER ICON --- */
+/* This targets the main div element that holds the hamburger menu/icon area. 
+   This is a highly reliable way to remove the element entirely across Streamlit versions. */
+[data-testid="stSidebarContent"] ~ button {
+    display: none !important;
+    visibility: hidden !important;
+}
+
+/* Also target the specific class names that might be causing the issue (redundant but safe) */
+.st-emotion-cache-1ft04qj, .st-emotion-cache-1ft04qj + button { 
+    display: none !important;
+    visibility: hidden !important;
+}
