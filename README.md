@@ -1,7 +1,8 @@
 ## MSCE Agriculture Generative Chatbot ##
 
 **Final Project: Domain-Specific Generative Question Answering (QA) System**
-![Uploading Screenshot 2025-10-16 at 23.02.45.png…]()
+<img width="1440" height="900" alt="Screenshot 2025-10-16 at 23 02 45" src="https://github.com/user-attachments/assets/073ce57f-7fac-4215-98d6-20c9e24f646e" />
+
 
 This project implements a generative AI chatbot tailored to the Malawi Secondary Certificate of Education (MSCE) Agriculture syllabus. It utilizes a fine-tuned T5 Transformer model to provide students with instant, coherent answers and generate new practice questions for studying.
 
