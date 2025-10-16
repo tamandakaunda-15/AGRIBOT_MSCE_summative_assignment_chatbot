@@ -1,6 +1,7 @@
 ## MSCE Agriculture Generative Chatbot ##
 
 **Final Project: Domain-Specific Generative Question Answering (QA) System**
+![Uploading Screenshot 2025-10-16 at 23.02.45.png…]()
 
 This project implements a generative AI chatbot tailored to the Malawi Secondary Certificate of Education (MSCE) Agriculture syllabus. It utilizes a fine-tuned T5 Transformer model to provide students with instant, coherent answers and generate new practice questions for studying.
 
@@ -14,7 +15,7 @@ The final deployed application is fully functional and successfully resolves the
 * **Primary Metric (Validation Loss):** The model achieved a very low final validation loss of **0.0013**. This is the primary quantitative measure confirming the model's high accuracy.
 * **Qualitative Testing:** Final stability testing ensures that out-of-domain questions (e.g., "how old are you?") return a **stable, domain-limited response** ("I'm an AI assistant focused exclusively on the MSCE agriculture syllabus..."). This confirms the chatbot remains a trustworthy and safe educational tool.
 
-### UI Integration and Functionality (Exemplary: 10/10 Pts)
+### UI Integration and Functionality
 
 The user interface was built with Streamlit and is visually distinct and highly functional:
 
@@ -22,10 +23,6 @@ The user interface was built with Streamlit and is visually distinct and highly 
 * **Functionality:** Includes two panels:
     * **Student Mode:** The primary Q\&A panel where users ask questions.
     * **Tutor Mode:** The value-added **Question Generation** panel where tutors can generate new questions from their notes, enhancing class revisions.
-
-### Conclusion
-
-This project demonstrates a strong understanding of transformer models and their application in solving pressing problems in African schools (e.g., lack of qualified teachers and fewer learning resources).
 
 ***
 
@@ -58,8 +55,13 @@ streamlit run app.py
 
 OR
 
-## open this link in your browser to view how the app works ##
+# open this link in your browser to view how the app works #
 
 https://agribotmscesummativeassignmentchatbot-fl6ndhlgrjyyjyyeyb9xr5.streamlit.app/
+
+
+### Conclusion
+
+This project demonstrates a strong understanding of transformer models and their application in solving pressing problems in African schools (e.g., lack of qualified teachers and fewer learning resources).
 
 
