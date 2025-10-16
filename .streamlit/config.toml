@@ -1,4 +1,4 @@
 [runner]
 # This tells Streamlit to execute the setup.sh script 
 # before starting the Python application (app.py)
-post_install = "bash setup.sh"
+post_install = "bash setup.sh && python3 -m pip install tf-keras"
