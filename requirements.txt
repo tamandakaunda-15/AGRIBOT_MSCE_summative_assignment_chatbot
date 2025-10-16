@@ -8,3 +8,4 @@ transformers
 datasets
 pandas
 sentencepiece
+tf-keras
