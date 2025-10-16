@@ -11,7 +11,7 @@ The final deployed application is fully functional and successfully resolves the
 
 * **Performance Improvement:** The validation loss dropped dramatically from **0.1394** after Epoch 1 to **0.0013** after Epoch 3, indicating a **significant improvement (over 90\% reduction)** and robust learning on the specialized dataset.
 
-### Performance Metrics (Exemplary: 5/5 Pts)
+### Performance Metrics
 
 * **Primary Metric (Validation Loss):** The model achieved a very low final validation loss of **0.0013**. This is the primary quantitative measure confirming the model's high accuracy.
 * **Qualitative Testing:** Final stability testing ensures that out-of-domain questions (e.g., "how old are you?") return a **stable, domain-limited response** ("I'm an AI assistant focused exclusively on the MSCE agriculture syllabus..."). This confirms the chatbot remains a trustworthy and safe educational tool.
