@@ -6,6 +6,9 @@ from datasets import Dataset
 import os
 import uuid 
 
+import os
+os.environ['TF_USE_LEGACY_KERAS'] = '1'
+
 # --- CONFIGURATION & CONSTANTS ---
 MODEL_HUB_ID = "TamandaKaunda/MSCE-Agriculture-T5" 
 MAX_LENGTH = 200
